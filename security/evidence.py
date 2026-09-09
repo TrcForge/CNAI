@@ -1,5 +1,7 @@
 from enum import IntEnum
 
+from security.rbac import Role, Permission, has_permission
+
 
 class EvidenceClassification(IntEnum):
     PUBLIC = 1
@@ -21,7 +23,26 @@ def can_access_classification(
     evidence_classification: EvidenceClassification,
 ) -> bool:
     """
-    A user can access evidence when their clearance
-    is equal to or higher than the evidence classification.
+    Check whether the user's clearance is sufficient.
     """
     return user_clearance >= evidence_classification
+
+
+def can_access_evidence(
+    role: Role,
+    user_clearance: EvidenceClassification,
+    evidence_classification: EvidenceClassification,
+) -> bool:
+    """
+    Check both role permission and evidence clearance.
+    """
+
+    # User must have permission to view evidence
+    if not has_permission(role, Permission.VIEW_EVIDENCE):
+        return False
+
+    # User's clearance must be sufficient
+    return can_access_classification(
+        user_clearance,
+        evidence_classification,
+    )

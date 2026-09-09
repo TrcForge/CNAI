@@ -1,7 +1,10 @@
 from security.evidence import (
     EvidenceClassification,
     can_access_classification,
+    can_access_evidence,
 )
+
+from security.rbac import Role
 
 
 def test_high_clearance_can_access_lower_classification():
@@ -32,4 +35,28 @@ def test_lower_clearance_cannot_access_higher_classification():
     assert not can_access_classification(
         EvidenceClassification.CONFIDENTIAL,
         EvidenceClassification.RESTRICTED,
+    )
+
+
+def test_investigator_can_access_confidential_evidence():
+    assert can_access_evidence(
+        Role.INVESTIGATOR,
+        EvidenceClassification.CONFIDENTIAL,
+        EvidenceClassification.CONFIDENTIAL,
+    )
+
+
+def test_insufficient_clearance_denies_access():
+    assert not can_access_evidence(
+        Role.INVESTIGATOR,
+        EvidenceClassification.CONFIDENTIAL,
+        EvidenceClassification.RESTRICTED,
+    )
+
+
+def test_analyst_cannot_access_evidence():
+    assert not can_access_evidence(
+        Role.ANALYST,
+        EvidenceClassification.RESTRICTED,
+        EvidenceClassification.PUBLIC,
     )
