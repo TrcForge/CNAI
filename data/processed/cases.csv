@@ -1,0 +1,108 @@
+case_id,case_type,case_status,priority,opened_phase,lead_unit,source
+CASE-1001,Theft,UNDER_INVESTIGATION,HIGH,1,Crime Branch,synthetic_case_master
+CASE-1002,Cyber Crime,OPEN,CRITICAL,1,Cyber Cell,synthetic_case_master
+CASE-1003,Assault,UNDER_INVESTIGATION,CRITICAL,1,District Crime Unit,synthetic_case_master
+CASE-1004,Extortion,OPEN,CRITICAL,2,Cyber Cell,synthetic_case_master
+CASE-1005,Robbery,UNDER_INVESTIGATION,LOW,1,District Crime Unit,synthetic_case_master
+CASE-1006,Assault,CLOSED,CRITICAL,2,Special Investigation Unit,synthetic_case_master
+CASE-1007,Fraud,UNDER_INVESTIGATION,CRITICAL,2,Cyber Cell,synthetic_case_master
+CASE-1008,Robbery,OPEN,MEDIUM,1,Special Investigation Unit,synthetic_case_master
+CASE-1009,Robbery,OPEN,LOW,3,Cyber Cell,synthetic_case_master
+CASE-1010,Assault,OPEN,LOW,1,Special Investigation Unit,synthetic_case_master
+CASE-1011,Robbery,CLOSED,MEDIUM,2,Cyber Cell,synthetic_case_master
+CASE-1012,Cyber Crime,UNDER_INVESTIGATION,LOW,1,District Crime Unit,synthetic_case_master
+CASE-1013,Extortion,CLOSED,HIGH,3,Special Investigation Unit,synthetic_case_master
+CASE-1014,Fraud,UNDER_INVESTIGATION,LOW,3,Special Investigation Unit,synthetic_case_master
+CASE-1015,Fraud,UNDER_INVESTIGATION,MEDIUM,2,Special Investigation Unit,synthetic_case_master
+CASE-1016,Organized Crime,OPEN,CRITICAL,3,Cyber Cell,synthetic_case_master
+CASE-1017,Cyber Crime,CLOSED,MEDIUM,1,District Crime Unit,synthetic_case_master
+CASE-1018,Cyber Crime,CLOSED,LOW,2,District Crime Unit,synthetic_case_master
+CASE-1019,Cyber Crime,OPEN,LOW,2,Cyber Cell,synthetic_case_master
+CASE-1020,Organized Crime,UNDER_INVESTIGATION,CRITICAL,2,District Crime Unit,synthetic_case_master
+CASE-1021,Assault,OPEN,CRITICAL,1,Crime Branch,synthetic_case_master
+CASE-1022,Assault,OPEN,MEDIUM,1,Crime Branch,synthetic_case_master
+CASE-1023,Fraud,OPEN,MEDIUM,1,District Crime Unit,synthetic_case_master
+CASE-1024,Assault,UNDER_INVESTIGATION,HIGH,1,Special Investigation Unit,synthetic_case_master
+CASE-1025,Assault,OPEN,HIGH,3,Crime Branch,synthetic_case_master
+CASE-1026,Robbery,OPEN,LOW,1,Cyber Cell,synthetic_case_master
+CASE-1027,Robbery,UNDER_INVESTIGATION,CRITICAL,1,District Crime Unit,synthetic_case_master
+CASE-1028,Fraud,CLOSED,CRITICAL,1,Cyber Cell,synthetic_case_master
+CASE-1029,Fraud,OPEN,CRITICAL,3,Crime Branch,synthetic_case_master
+CASE-1030,Theft,OPEN,HIGH,1,District Crime Unit,synthetic_case_master
+CASE-1031,Theft,OPEN,CRITICAL,3,Special Investigation Unit,synthetic_case_master
+CASE-1032,Organized Crime,OPEN,HIGH,3,Special Investigation Unit,synthetic_case_master
+CASE-1033,Robbery,UNDER_INVESTIGATION,HIGH,1,District Crime Unit,synthetic_case_master
+CASE-1034,Organized Crime,UNDER_INVESTIGATION,MEDIUM,3,Crime Branch,synthetic_case_master
+CASE-1035,Fraud,OPEN,HIGH,1,Crime Branch,synthetic_case_master
+CASE-1036,Theft,CLOSED,HIGH,2,Cyber Cell,synthetic_case_master
+CASE-1037,Robbery,OPEN,HIGH,2,Cyber Cell,synthetic_case_master
+CASE-1038,Robbery,OPEN,HIGH,1,Special Investigation Unit,synthetic_case_master
+CASE-1039,Organized Crime,OPEN,HIGH,3,Special Investigation Unit,synthetic_case_master
+CASE-1040,Assault,OPEN,LOW,2,Special Investigation Unit,synthetic_case_master
+CASE-1041,Extortion,OPEN,CRITICAL,2,Cyber Cell,synthetic_case_master
+CASE-1042,Cyber Crime,CLOSED,CRITICAL,2,Cyber Cell,synthetic_case_master
+CASE-1043,Theft,CLOSED,CRITICAL,3,District Crime Unit,synthetic_case_master
+CASE-1044,Theft,UNDER_INVESTIGATION,CRITICAL,3,Crime Branch,synthetic_case_master
+CASE-1045,Extortion,UNDER_INVESTIGATION,MEDIUM,2,Cyber Cell,synthetic_case_master
+CASE-1046,Cyber Crime,UNDER_INVESTIGATION,MEDIUM,3,Cyber Cell,synthetic_case_master
+CASE-1047,Cyber Crime,OPEN,MEDIUM,3,Cyber Cell,synthetic_case_master
+CASE-1048,Robbery,OPEN,LOW,2,Cyber Cell,synthetic_case_master
+CASE-1049,Assault,CLOSED,MEDIUM,1,Crime Branch,synthetic_case_master
+CASE-1050,Organized Crime,UNDER_INVESTIGATION,CRITICAL,1,Crime Branch,synthetic_case_master
+CASE-1051,Assault,OPEN,LOW,2,Special Investigation Unit,synthetic_case_master
+CASE-1052,Organized Crime,UNDER_INVESTIGATION,HIGH,2,Cyber Cell,synthetic_case_master
+CASE-1053,Organized Crime,OPEN,LOW,1,Special Investigation Unit,synthetic_case_master
+CASE-1054,Extortion,CLOSED,LOW,3,Special Investigation Unit,synthetic_case_master
+CASE-1055,Extortion,CLOSED,LOW,1,Cyber Cell,synthetic_case_master
+CASE-1056,Fraud,CLOSED,HIGH,3,Crime Branch,synthetic_case_master
+CASE-1058,Theft,UNDER_INVESTIGATION,MEDIUM,3,Special Investigation Unit,synthetic_case_master
+CASE-1059,Fraud,CLOSED,MEDIUM,2,Crime Branch,synthetic_case_master
+CASE-1061,Extortion,OPEN,CRITICAL,2,Cyber Cell,synthetic_case_master
+CASE-1062,Fraud,UNDER_INVESTIGATION,MEDIUM,2,District Crime Unit,synthetic_case_master
+CASE-1063,Cyber Crime,OPEN,LOW,1,Crime Branch,synthetic_case_master
+CASE-1064,Assault,OPEN,MEDIUM,2,Crime Branch,synthetic_case_master
+CASE-1065,Assault,OPEN,HIGH,1,Special Investigation Unit,synthetic_case_master
+CASE-1066,Robbery,CLOSED,HIGH,2,Crime Branch,synthetic_case_master
+CASE-1067,Fraud,CLOSED,HIGH,3,Crime Branch,synthetic_case_master
+CASE-1068,Extortion,CLOSED,MEDIUM,3,Cyber Cell,synthetic_case_master
+CASE-1069,Extortion,OPEN,CRITICAL,2,Special Investigation Unit,synthetic_case_master
+CASE-1070,Cyber Crime,OPEN,MEDIUM,1,District Crime Unit,synthetic_case_master
+CASE-1071,Organized Crime,UNDER_INVESTIGATION,HIGH,2,Crime Branch,synthetic_case_master
+CASE-1072,Robbery,OPEN,CRITICAL,3,Crime Branch,synthetic_case_master
+CASE-1073,Robbery,CLOSED,CRITICAL,3,Crime Branch,synthetic_case_master
+CASE-1074,Robbery,UNDER_INVESTIGATION,LOW,1,Crime Branch,synthetic_case_master
+CASE-1075,Organized Crime,UNDER_INVESTIGATION,HIGH,1,Crime Branch,synthetic_case_master
+CASE-1076,Extortion,CLOSED,LOW,3,Cyber Cell,synthetic_case_master
+CASE-1077,Assault,UNDER_INVESTIGATION,LOW,1,Cyber Cell,synthetic_case_master
+CASE-1078,Cyber Crime,UNDER_INVESTIGATION,MEDIUM,3,Crime Branch,synthetic_case_master
+CASE-1079,Fraud,CLOSED,MEDIUM,2,Cyber Cell,synthetic_case_master
+CASE-1080,Assault,CLOSED,HIGH,2,Cyber Cell,synthetic_case_master
+CASE-1081,Extortion,CLOSED,HIGH,2,Special Investigation Unit,synthetic_case_master
+CASE-1082,Fraud,OPEN,LOW,3,Cyber Cell,synthetic_case_master
+CASE-1083,Theft,CLOSED,MEDIUM,2,Crime Branch,synthetic_case_master
+CASE-1084,Extortion,OPEN,HIGH,3,Cyber Cell,synthetic_case_master
+CASE-1085,Theft,OPEN,LOW,1,Special Investigation Unit,synthetic_case_master
+CASE-1086,Organized Crime,CLOSED,CRITICAL,3,Cyber Cell,synthetic_case_master
+CASE-1087,Assault,OPEN,CRITICAL,1,Special Investigation Unit,synthetic_case_master
+CASE-1088,Extortion,UNDER_INVESTIGATION,CRITICAL,2,Cyber Cell,synthetic_case_master
+CASE-1089,Extortion,CLOSED,CRITICAL,2,Special Investigation Unit,synthetic_case_master
+CASE-1090,Fraud,UNDER_INVESTIGATION,LOW,2,Cyber Cell,synthetic_case_master
+CASE-1091,Extortion,UNDER_INVESTIGATION,HIGH,1,Special Investigation Unit,synthetic_case_master
+CASE-1092,Assault,OPEN,MEDIUM,1,Crime Branch,synthetic_case_master
+CASE-1093,Extortion,OPEN,CRITICAL,3,Special Investigation Unit,synthetic_case_master
+CASE-1094,Assault,UNDER_INVESTIGATION,HIGH,2,District Crime Unit,synthetic_case_master
+CASE-1095,Robbery,OPEN,HIGH,2,Cyber Cell,synthetic_case_master
+CASE-1096,Fraud,CLOSED,HIGH,2,District Crime Unit,synthetic_case_master
+CASE-1097,Robbery,UNDER_INVESTIGATION,CRITICAL,2,Special Investigation Unit,synthetic_case_master
+CASE-1098,Assault,OPEN,MEDIUM,3,Cyber Cell,synthetic_case_master
+CASE-1099,Assault,UNDER_INVESTIGATION,HIGH,2,District Crime Unit,synthetic_case_master
+CASE-1100,Assault,OPEN,HIGH,3,Cyber Cell,synthetic_case_master
+CASE-1101,Theft,UNDER_INVESTIGATION,HIGH,1,Cyber Cell,synthetic_case_master
+CASE-1102,Robbery,CLOSED,LOW,2,Cyber Cell,synthetic_case_master
+CASE-1103,Fraud,CLOSED,CRITICAL,2,Cyber Cell,synthetic_case_master
+CASE-1104,Organized Crime,OPEN,LOW,2,Crime Branch,synthetic_case_master
+CASE-1105,Cyber Crime,CLOSED,LOW,3,Special Investigation Unit,synthetic_case_master
+CASE-1106,Extortion,CLOSED,LOW,2,Special Investigation Unit,synthetic_case_master
+CASE-1107,Organized Crime,CLOSED,HIGH,2,Special Investigation Unit,synthetic_case_master
+CASE-1108,Fraud,UNDER_INVESTIGATION,HIGH,2,Crime Branch,synthetic_case_master
+CASE-1109,Organized Crime,OPEN,LOW,3,Cyber Cell,synthetic_case_master

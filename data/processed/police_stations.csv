@@ -1,0 +1,12 @@
+station_id,station_name,district,state,source
+PS001,Airport,Kolkata/Adjacent Districts,West Bengal,FIR_details.json
+PS002,Baguiati,Kolkata/Adjacent Districts,West Bengal,FIR_details.json
+PS003,Bidhannagar North,Kolkata/Adjacent Districts,West Bengal,FIR_details.json
+PS004,Bidhannagar South,Kolkata/Adjacent Districts,West Bengal,FIR_details.json
+PS005,Cyber-Crime,Kolkata/Adjacent Districts,West Bengal,FIR_details.json
+PS006,Eco Park,Kolkata/Adjacent Districts,West Bengal,FIR_details.json
+PS007,Electronics Complex,Kolkata/Adjacent Districts,West Bengal,FIR_details.json
+PS008,Lake Town,Kolkata/Adjacent Districts,West Bengal,FIR_details.json
+PS009,Nscbi Airport,Kolkata/Adjacent Districts,West Bengal,FIR_details.json
+PS010,Rajarhat,Kolkata/Adjacent Districts,West Bengal,FIR_details.json
+PS011,Women,Kolkata/Adjacent Districts,West Bengal,FIR_details.json

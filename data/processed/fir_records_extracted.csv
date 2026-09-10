@@ -1,0 +1,545 @@
+fir_id,image_name,police_station,year,ipc_sections,person_names_ocr,ocr_detection_count,avg_ocr_confidence,source,entity_resolution_status
+FIR-Airport-PSAIRPORT-0004-2017-2711-1-jpg,Airport PSAIRPORT-0004-2017-2711__1.jpg,,,399/402 Ipc And 25(I)(A)/27 Arms Act,Si Sahabuddin Mondal,2,0.7793,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0004-2018-3503-1-jpg,Airport PSAIRPORT-0004-2018-3503__1.jpg,Airport,2018,420/406/120B Ipc,Monodip Das Gupta,5,0.8635,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0005-2017-3336-1-jpg,Airport PSAIRPORT-0005-2017-3336__1.jpg,,,323/380/506/120B Ipc,Sri Indranil Roy,2,0.8314,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0005-2018-1983-1-jpg,Airport PSAIRPORT-0005-2018-1983__1.jpg,Airport,2018,,Rubina Laskar,5,0.753,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0006-2017-3301-1-jpg,Airport PSAIRPORT-0006-2017-3301__1.jpg,,,498A/448/326 Ipc,,1,0.6627,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0006-2018-1899-1-jpg,Airport PSAIRPORT-0006-2018-1899__1.jpg,Airport,2018,323/307/497/498A/406/506/34 And 3/4 Dp Act,Nasima Khatun,5,0.7276,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0007-2017-3336-1-jpg,Airport PSAIRPORT-0007-2017-3336__1.jpg,Airport,,341/354/354B Ipc,Susmita Ghosh,3,0.916,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0007-2018-1932-1-jpg,Airport PSAIRPORT-0007-2018-1932__1.jpg,Airport,2018,,Dipankar Sardar,4,0.8486,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0008-2017-3243-1-jpg,Airport PSAIRPORT-0008-2017-3243__1.jpg,Airport,,279/304A/427 Ipc,Bivash Kumar Jha,3,0.8549,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0008-2018-2110-1-jpg,Airport PSAIRPORT-0008-2018-2110__1.jpg,,,,Shibashis Das,1,0.8887,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0009-2017-3638-1-jpg,Airport PSAIRPORT-0009-2017-3638__1.jpg,Airport,2017,,Minoti Biswas,3,0.7435,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0009-2018-3628-1-jpg,Airport PSAIRPORT-0009-2018-3628__1.jpg,Airport,2018,420/406/120B Ipc,Chiranjib Bhattacharjee,6,0.8379,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0010-2017-3678-1-jpg,Airport PSAIRPORT-0010-2017-3678__1.jpg,Airport,,399/402 Ipc And 25(I)A/27 Arms Act.,Si Sahabuddin Mondal,6,0.7651,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0010-2018-3706-1-jpg,Airport PSAIRPORT-0010-2018-3706__1.jpg,Airport,2018,279/338 Ipc,Sudip Das,4,0.8523,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0011-2017-4014-1-jpg,Airport PSAIRPORT-0011-2017-4014__1.jpg,Airport,2017,420/406/323/379/506/34 Ipc,Prabbajika Dayamata,6,0.8093,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0011-2018-3453-1-jpg,Airport PSAIRPORT-0011-2018-3453__1.jpg,Airport,2018,399/402 Ipc,Sahabuddin Mondal,6,0.837,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0012-2017-4052-1-jpg,Airport PSAIRPORT-0012-2017-4052__1.jpg,Airport,2017,135(I)(A) Electricity Act 2003 Read With Amendment,Souvik Chakraborty,5,0.7518,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0012-2018-3495-1-jpg,Airport PSAIRPORT-0012-2018-3495__1.jpg,Airport,2018,341/325/307/506/34 Ipc,Biswajit Ghosh,4,0.955,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0013-2017-4063-1-jpg,Airport PSAIRPORT-0013-2017-4063__1.jpg,Airport,2017,,Souvik Chakraborty,3,0.8555,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0013-2018-3843-1-jpg,Airport PSAIRPORT-0013-2018-3843__1.jpg,Airport,2018,,Azizul Haque Tarafdar,4,0.8305,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0014-2017-4221-1-jpg,Airport PSAIRPORT-0014-2017-4221__1.jpg,Airport,,341/323/506 Ipc,Biswajit Halder,4,0.8847,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0014-2018-4861-1-jpg,Airport PSAIRPORT-0014-2018-4861__1.jpg,Airport,2018,279/337/338/427 Ipc,Tarkeswar Mahato,5,0.8251,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0015-2017-4215-1-jpg,Airport PSAIRPORT-0015-2017-4215__1.jpg,Airport,2017,,Souvik Chakraborty,3,0.9158,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0015-2018-5219-1-jpg,Airport PSAIRPORT-0015-2018-5219__1.jpg,Airport,2018,354A/506 Ipc,Koyel Das,5,0.8148,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0016-2017-4225-1-jpg,Airport PSAIRPORT-0016-2017-4225__1.jpg,Airport,2017,135(I)(A)And (B)Electritycity Act 2003 Read With Ammendment Of 2007,Souvik Chakraborty,6,0.8127,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0016-2018-5562-1-jpg,Airport PSAIRPORT-0016-2018-5562__1.jpg,Airport,2018,188 Ipc And 46 (A)(C) B.E.,Sahabuddin Mondal,5,0.7966,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0017-2017-4472-1-jpg,Airport PSAIRPORT-0017-2017-4472__1.jpg,Airport,2017,,Sri Souvik Chakraborty,3,0.9245,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0017-2018-6685-1-jpg,Airport PSAIRPORT-0017-2018-6685__1.jpg,Airport,2018,420/406/34 Ipc,Debdas Roy Chowdhury,4,0.9099,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0018-2017-1390-1-jpg,Airport PSAIRPORT-0018-2017-1390__1.jpg,Airport,2017,418/420/406/506/120B,Haran Ul Rashid,4,0.8282,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0018-2018-9649-1-jpg,Airport PSAIRPORT-0018-2018-9649__1.jpg,Airport,2018,379 Ipc,,3,0.7603,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0019-2017-4398-1-jpg,Airport PSAIRPORT-0019-2017-4398__1.jpg,Airport,,420/406/323/120B/34 Ipc,Sri Deepak Kumar Kantilal,3,0.8287,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0019-2018-1020-1-jpg,Airport PSAIRPORT-0019-2018-1020__1.jpg,Airport,2018,147/148/323/354/379/506 43 Ipc,Ashma Khatoon,6,0.8617,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0020-2017-4612-1-jpg,Airport PSAIRPORT-0020-2017-4612__1.jpg,Airport,2017,14 Foreighners Act,Si Sahabuddin Mondal,4,0.7766,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0020-2018-9535-1-jpg,Airport PSAIRPORT-0020-2018-9535__1.jpg,Airport,2018,447/385/506/34 Ipc And 25/27 Arms Act,Bijon Kumar Das,5,0.8063,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0021-2017-4783-1-jpg,Airport PSAIRPORT-0021-2017-4783__1.jpg,Airport,2017,114/116/323/352/386/506 And 120B Ipc And 1860 Read With See 8 And 12 Of Posco Act,Abhijit Saha,6,0.8237,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0021-2018-2312-1-jpg,Airport PSAIRPORT-0021-2018-2312__1.jpg,Airport,2018,341/323/325/506/34 Ipc,Tutun Podder,5,0.893,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0022-2017-4797-1-jpg,Airport PSAIRPORT-0022-2017-4797__1.jpg,Airport,2017,498A/406 Ipc,Sikha Das,4,0.8402,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0022-2018-2306-1-jpg,Airport PSAIRPORT-0022-2018-2306__1.jpg,Airport,2018,341/323/325/506/34 Ipc,Arindam Mukherjee,5,0.8764,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0023-2018-2380-1-jpg,Airport PSAIRPORT-0023-2018-2380__1.jpg,Airport,2018,279/337/338/427 Ipc,Abid Ali,5,0.8713,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0024-2017-5230-1-jpg,Airport PSAIRPORT-0024-2017-5230__1.jpg,Airport,2017,,Birupakshya Sanyal,4,0.7203,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0024-2018-2372-1-jpg,Airport PSAIRPORT-0024-2018-2372__1.jpg,Airport,2018,279/338 Ipc,Dilip Ghosh,5,0.9195,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0025-2017-5144-1-jpg,Airport PSAIRPORT-0025-2017-5144__1.jpg,Airport,2017,341/323/279/338/186/322/506 Ipc,Bijoy Saha,4,0.8131,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0026-2017-5762-1-jpg,Airport PSAIRPORT-0026-2017-5762__1.jpg,,,,Saraswati Das,1,0.778,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0026-2018-2718-1-jpg,Airport PSAIRPORT-0026-2018-2718__1.jpg,Airport,2018,341/325/354B/506/34 Ipc,Smt Nita De,4,0.8756,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0027-2017-4310-1-jpg,Airport PSAIRPORT-0027-2017-4310__1.jpg,Airport,,406/120B Ipc,Raghav Behal Proprietor Of Smp Traders,3,0.8317,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0027-2018-3288-1-jpg,Airport PSAIRPORT-0027-2018-3288__1.jpg,Airport,2018,354 Ipc,Puja Mahali,5,0.7949,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0028-2017-3873-1-jpg,Airport PSAIRPORT-0028-2017-3873__1.jpg,Airport,2017,279/338 Ipc,Tarsem Singh,4,0.911,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0028-2018-3687-1-jpg,Airport PSAIRPORT-0028-2018-3687__1.jpg,Airport,2018,341/325/354/506/34 Ipc,Salma Begam,8,0.7923,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0029-2017-4006-1-jpg,Airport PSAIRPORT-0029-2017-4006__1.jpg,Airport,2017,,Sanjoy Singha Roy,3,0.7901,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0029-2018-3721-1-jpg,Airport PSAIRPORT-0029-2018-3721__1.jpg,Airport,2018,147/148/149/448/427/354/435/436/380/506/120B Ipc,Sikander Chowdhury,4,0.9511,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0030-2017-1970-1-jpg,Airport PSAIRPORT-0030-2017-1970__1.jpg,,,,Manas Kumar Gaswami,1,0.9496,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0030-2018-3632-1-jpg,Airport PSAIRPORT-0030-2018-3632__1.jpg,Airport,2018,,Sampa Ghosh Palit,5,0.8318,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0031-2018-3685-1-jpg,Airport PSAIRPORT-0031-2018-3685__1.jpg,Airport,2018,420/406 Ipc,Nemai Hazra,5,0.7002,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0032-2017-1992-1-jpg,Airport PSAIRPORT-0032-2017-1992__1.jpg,Airport,,,,1,0.7697,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0032-2018-3668-1-jpg,Airport PSAIRPORT-0032-2018-3668__1.jpg,Airport,2018,323/324/325/319/441/379/506 Ipc,Sree Bidhan Chandra Das,4,0.6982,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0033-2017-1971-1-jpg,Airport PSAIRPORT-0033-2017-1971__1.jpg,,,,Smt Dola Chakraborty,1,0.7149,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0033-2018-3668-1-jpg,Airport PSAIRPORT-0033-2018-3668__1.jpg,Airport,2018,420/468/471/120B Ipc,Md. Sirajul Islam,5,0.7551,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0034-2017-1907-1-jpg,Airport PSAIRPORT-0034-2017-1907__1.jpg,Airport,2017,279/338/427 Ipc,Arun Bharati,5,0.8135,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0034-2018-3706-1-jpg,Airport PSAIRPORT-0034-2018-3706__1.jpg,Airport,,363/365 Ipc,Babram Parui,6,0.7109,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0035-2017-1998-1-jpg,Airport PSAIRPORT-0035-2017-1998__1.jpg,Airport,2017,,Asim Chakraborty,3,0.8235,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0035-2018-3809-1-jpg,Airport PSAIRPORT-0035-2018-3809__1.jpg,Airport,2018,341/323/325/354/427/506/34 Ipc,Mahasuna Begum,5,0.8985,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0036-2017-2353-1-jpg,Airport PSAIRPORT-0036-2017-2353__1.jpg,Airport,2017,,Sourav Sarkar,3,0.7636,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0036-2018-3858-1-jpg,Airport PSAIRPORT-0036-2018-3858__1.jpg,Airport,2018,341/324/307/120B/34 Ipc,Abdul Hannan,4,0.9629,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0037-2017-2758-1-jpg,Airport PSAIRPORT-0037-2017-2758__1.jpg,Airport,2017,341/325/34 Ipc,Monirul Sapui,5,0.8029,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0037-2018-3277-1-jpg,Airport PSAIRPORT-0037-2018-3277__1.jpg,Airport,2018,,Souvik Banerjee,3,0.9703,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0038-2017-3070-1-jpg,Airport PSAIRPORT-0038-2017-3070__1.jpg,Airport,2017,341/326/307 Ipc,Debabrata Biswas,5,0.7256,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0038-2018-3233-1-jpg,Airport PSAIRPORT-0038-2018-3233__1.jpg,Airport,2018,420/406/120B/34 Ipc,Prasanta Dey,5,0.8821,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0039-2017-3123-1-jpg,Airport PSAIRPORT-0039-2017-3123__1.jpg,Airport,2017,,Si Basudeb Mokami,3,0.8677,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0039-2018-3100-1-jpg,Airport PSAIRPORT-0039-2018-3100__1.jpg,Airport,2018,,,2,0.89,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0040-2017-3229-1-jpg,Airport PSAIRPORT-0040-2017-3229__1.jpg,Airport,,279/338,Sadhan Chatterjee,3,0.7831,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0040-2018-3130-1-jpg,Airport PSAIRPORT-0040-2018-3130__1.jpg,Airport,2018,342/374/506 Ipc,,3,0.8382,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0041-2017-3309-1-jpg,Airport PSAIRPORT-0041-2017-3309__1.jpg,Airport,,341/325/427/506/34 Ipc,Nazir Hossain,4,0.8082,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0041-2018-3121-1-jpg,Airport PSAIRPORT-0041-2018-3121__1.jpg,Airport,2018,279/338/427 Ipc,Molla Saif Anjum,6,0.8353,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0042-2017-3277-1-jpg,Airport PSAIRPORT-0042-2017-3277__1.jpg,Airport,,,Sanjoy Ghosh,2,0.8247,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0042-2018-3079-1-jpg,Airport PSAIRPORT-0042-2018-3079__1.jpg,Airport,2018,399/402 Ipc,Sahabuddin Mondal (Si Of Police),4,0.7405,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0043-2017-3250-1-jpg,Airport PSAIRPORT-0043-2017-3250__1.jpg,Airport,2017,114/116/341/323/352/386/448/427/379/506 And 120B Ipc,Sri Abhijit Saha,5,0.7764,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0043-2018-3085-1-jpg,Airport PSAIRPORT-0043-2018-3085__1.jpg,Airport,2018,279/338/427 Ipc,Ashwni Kumar (Constable Of Cisf),5,0.8323,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0044-2017-4985-1-jpg,Airport PSAIRPORT-0044-2017-4985__1.jpg,,,,Nirmal Sarkar,1,0.9306,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0044-2018-1206-1-jpg,Airport PSAIRPORT-0044-2018-1206__1.jpg,Airport,2018,379,Krishna Kumar Gupta,4,0.8527,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0045-2017-5032-1-jpg,Airport PSAIRPORT-0045-2017-5032__1.jpg,Airport,2017,323/406/506/34 Ipc,Pankaj Pal,5,0.8571,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0045-2018-3130-1-jpg,Airport PSAIRPORT-0045-2018-3130__1.jpg,Airport,2018,498A/324/307 Ipc And 3/4 Dp Act.,Koyel Nandi (Mondal),5,0.8731,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0046-2017-4970-1-jpg,Airport PSAIRPORT-0046-2017-4970__1.jpg,Airport,2017,20(B)(Ii)(C) Nd Act,Saumittra Ghosh (Si Of Police),5,0.8732,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0046-2018-2859-1-jpg,Airport PSAIRPORT-0046-2018-2859__1.jpg,Airport,2018,420/406 Ipc,Rama Mishra,6,0.8757,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0047-2017-4994-1-jpg,Airport PSAIRPORT-0047-2017-4994__1.jpg,Airport,2017,417/376/384/120B/506/34 Ipc,Subhra Dutta,5,0.8292,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0047-2018-3672-1-jpg,Airport PSAIRPORT-0047-2018-3672__1.jpg,Airport,2018,451/323/324/327/380/506/120B/34 Pc,Jamena Bibi,4,0.9028,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0048-2017-2735-1-jpg,Airport PSAIRPORT-0048-2017-2735__1.jpg,Airport,2017,279/338 Ipc,Biswajit Karmakar,5,0.8525,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0048-2018-3695-1-jpg,Airport PSAIRPORT-0048-2018-3695__1.jpg,Airport,2018,135(1)(A)Of Electricity Act 2003 And Ammenment Of 2007,Souvik Chakraborty (De And Staron Manager Wbsedcl),6,0.7904,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0049-2017-1329-1-jpg,Airport PSAIRPORT-0049-2017-1329__1.jpg,Airport,2017,341/323/448/353/506/34 Ipc,Swapna Majumder,4,0.8618,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0049-2018-3619-1-jpg,Airport PSAIRPORT-0049-2018-3619__1.jpg,Airport,2018,323/328/307/497/384/379/506 Ipc,,4,0.8399,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0050-2017-1335-1-jpg,Airport PSAIRPORT-0050-2017-1335__1.jpg,Airport,2017,,Narayan Malakar,3,0.8327,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0050-2018-3683-1-jpg,Airport PSAIRPORT-0050-2018-3683__1.jpg,Airport,2018,323/326/307 Ipc,Nazir Ali,4,0.7976,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0051-2017-1415-1-jpg,Airport PSAIRPORT-0051-2017-1415__1.jpg,Airport,,,Samrat Paul,2,0.919,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0051-2018-3615-1-jpg,Airport PSAIRPORT-0051-2018-3615__1.jpg,Airport,2018,498A/406/323/34 Ipc,Nasima Bibi,5,0.7889,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0052-2017-2718-1-jpg,Airport PSAIRPORT-0052-2017-2718__1.jpg,Airport,2017,,Md Julfikkar Ali,3,0.8155,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0052-2018-3609-1-jpg,Airport PSAIRPORT-0052-2018-3609__1.jpg,Airport,2018,323/498A/406/120B Ipc,Smt.Mamota Sengupta (Ghosh),4,0.883,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0053-2017-2737-1-jpg,Airport PSAIRPORT-0053-2017-2737__1.jpg,Airport,2017,420/406/120B Ipc,Sri Samir Kumar Saha,5,0.8592,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0053-2018-3700-1-jpg,Airport PSAIRPORT-0053-2018-3700__1.jpg,Airport,2018,494/323/325/379/354(B)/120(B)/34 Ipc,Rinky Ghosh,6,0.7847,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0054-2017-2760-1-jpg,Airport PSAIRPORT-0054-2017-2760__1.jpg,Airport,2017,498A/323/506 Ipc,Alehar Bibi,6,0.8257,FIR_details.json,UNRESOLVED
+FIR-Airport-PSAIRPORT-0054-2018-3634-1-jpg,Airport PSAIRPORT-0054-2018-3634__1.jpg,Airport,2018,323/325/379/419/420/506/509/120B Ipc,Jaydeep Rao,6,0.6936,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS500-18-1-jpg,Baguiati PS500-18__1.jpg,Baguiati,2018,,Nitya Gopal Debnath,5,0.8483,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS500-19-1-jpg,Baguiati PS500-19__1.jpg,Baguiati,2019,420/406/506 Ipc,Ramayan Chowdhury,4,0.9249,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS500-2021-1-jpg,Baguiati PS500-2021__1.jpg,Baguiati,2021,188/269/270/271/34 Ipc And 51 Of Disaster Management Act,Psi Tarun Kr Biswas Of Baguiati Ps,6,0.8198,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS501-18-1-jpg,Baguiati PS501-18__1.jpg,Baguiati,2018,420/406 Ipc,Debu Prasad Mallick,5,0.8346,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS501-19-1-jpg,Baguiati PS501-19__1.jpg,Baguiati,2019,341/325/506/34 Ipc,Dulal Krishna Das,5,0.8927,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS501-2021-1-jpg,Baguiati PS501-2021__1.jpg,Baguiati,2021,188/269/270/271/34 Ipc And 51 Of Disaster Management Act,Si Arabinda Kr Saha Of Baguiati Ps,7,0.7902,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS502-18-1-jpg,Baguiati PS502-18__1.jpg,Baguiati,2018,363/365/323 Ipc,Gita Jaiswal,4,0.9382,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS502-19-1-jpg,Baguiati PS502-19__1.jpg,Baguiati,2019,341/186/506 Ipc,"C/56 Biswajit Naksar , Baguiati T.G.,",4,0.9173,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS502-2021-1-jpg,Baguiati PS502-2021__1.jpg,Baguiati,2021,341/323/354B/506/509/34 Ipc,Sruti Kanodia,6,0.8378,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS503-18-1-jpg,Baguiati PS503-18__1.jpg,Baguiati,2018,448/323/325/506 Ipc,Chaina Hazra,5,0.8897,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS503-19-1-jpg,Baguiati PS503-19__1.jpg,Baguiati,2019,,Nilkanta Bose,3,0.9725,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS503-2021-1-jpg,Baguiati PS503-2021__1.jpg,Baguiati,2021,,Nisha Nahata,3,0.9642,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS504-18-1-jpg,Baguiati PS504-18__1.jpg,Baguiati,2018,420/406/34 Ipc,Maidul Sarkar,4,0.9251,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS504-19-1-jpg,Baguiati PS504-19__1.jpg,Baguiati,2019,341/325/506/34 Ipc,Parbati Shaw,6,0.8921,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS504-2021-1-jpg,Baguiati PS504-2021__1.jpg,Baguiati,,451/452/323/506 Ipc,Bithika Dutta,3,0.9184,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS505-18-1-jpg,Baguiati PS505-18__1.jpg,Baguiati,2018,341/323/427/506/34 Ipc,Paran Mondal,4,0.9224,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS505-19-1-jpg,Baguiati PS505-19__1.jpg,Baguiati,2019,279/427 Ipc,C/464 Bappa Naskar,7,0.7564,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS505-2021-1-jpg,Baguiati PS505-2021__1.jpg,Baguiati,2021,498A/313/406 Ipc,Barna Poddar,6,0.8681,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS506-18-1-jpg,Baguiati PS506-18__1.jpg,Baguiati,2018,188 Ipc,"Psi Abdu Hamid Molla Of Baguiati Ps, Bdn Pc",4,0.8499,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS506-19-1-jpg,Baguiati PS506-19__1.jpg,Baguiati,2019,342/34 Ipc,Kavita Chopra,4,0.9203,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS506-2021-1-jpg,Baguiati PS506-2021__1.jpg,Baguiati,2021,498A/323/325/506 Ipc,Mabiya Bibi,5,0.8535,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS507-18-1-jpg,Baguiati PS507-18__1.jpg,Baguiati,2018,420/406 Ipc,Bhibdu Kalyan Nath,4,0.9635,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS507-19-1-jpg,Baguiati PS507-19__1.jpg,Baguiati,2019,302/201 Ipc,Sanjay Shaw,4,0.8704,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS507-2021-1-jpg,Baguiati PS507-2021__1.jpg,Baguiati,2021,188/269/270/271/34 Ipc And 51 Of Disaster Management Act,Si Dibyendu Ghosh Of Baguiati Ps,6,0.8539,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS508-18-1-jpg,Baguiati PS508-18__1.jpg,Baguiati,2018,341/323/506/34 Ipc,Gauri Das,5,0.8721,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS508-19-1-jpg,Baguiati PS508-19__1.jpg,Baguiati,2019,498A/306 Ipc,Ritesh Kumar,4,0.9551,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS508-2021-1-jpg,Baguiati PS508-2021__1.jpg,Baguiati,2021,188/269/270/271/34 Ipc And 51 Of Disaster Management Act,Si Sk Jakir Hossain Of Baguiati Ps,5,0.8542,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS509-18-1-jpg,Baguiati PS509-18__1.jpg,Baguiati,2018,363/365/34 Ipc,Poly Bala,4,0.915,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS509-19-1-jpg,Baguiati PS509-19__1.jpg,Baguiati,2019,341/323/325/506/379/34 Ipc,Rishav Pandey,7,0.8364,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS509-2021-1-jpg,Baguiati PS509-2021__1.jpg,Baguiati,2021,341/323/506/34 Ipc,Partha Paul,5,0.9393,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS510-18-1-jpg,Baguiati PS510-18__1.jpg,Baguiati,2018,420/406/120B Ipc,Rabindra Nath Guchait,5,0.9363,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS510-19-1-jpg,Baguiati PS510-19__1.jpg,Baguiati,2019,420/406/408/409 Ipc,"Umang Sarangi, Authorised Signatory",6,0.8358,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS510-2021-1-jpg,Baguiati PS510-2021__1.jpg,Baguiati,2021,188/269/270/271/34 Ipc And 51 Of Disaster Management Act,Si Priya Darshan Ghosh Of Baguiati Ps,4,0.962,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS511-18-1-jpg,Baguiati PS511-18__1.jpg,Baguiati,2018,406 Ipc,Sujit Kr. Saha,5,0.8622,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS511-19-1-jpg,Baguiati PS511-19__1.jpg,Baguiati,2019,420/406/408/409/120B Ipc,Arani Ganguly,5,0.8026,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS511-2021-1-jpg,Baguiati PS511-2021__1.jpg,Baguiati,2021,467/468/471/420/406/120B Ipc,Nityagopal Debnath,4,0.9437,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS512-18-1-jpg,Baguiati PS512-18__1.jpg,Baguiati,2018,379 Ipc,Avijit Samanta,5,0.7902,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS512-19-1-jpg,Baguiati PS512-19__1.jpg,Baguiati,2019,498A/323/506/34 Ipc,Smt Trish Dutta (Ghosh),8,0.7812,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS512-2021-1-jpg,Baguiati PS512-2021__1.jpg,Baguiati,2021,,Souvik Banerjee,4,0.8266,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS513-18-1-jpg,Baguiati PS513-18__1.jpg,Baguiati,2018,370/370(A)/326/120B Ipc,Priyanka Ratudi,5,0.8824,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS513-19-1-jpg,Baguiati PS513-19__1.jpg,Baguiati,2019,279/338/427 Ipc,Ejajul Tarafdar,5,0.833,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS513-2021-1-jpg,Baguiati PS513-2021__1.jpg,Baguiati,2021,188/269/270/271/34 Ipc And 51 Of Disaster Management Act,Psi Subhankar Pal Of Baguiati Ps,5,0.8807,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS514-18-1-jpg,Baguiati PS514-18__1.jpg,Baguiati,2018,"135(I)(A) Of Electricity Act, 2003",Sanjukta Ghoshal,4,0.8565,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS514-19-1-jpg,Baguiati PS514-19__1.jpg,Baguiati,2019,341/186/188/506/34 Ipc,"Si Jayanta Nath Saha, Baguiati P.S",4,0.8524,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS514-2021-1-jpg,Baguiati PS514-2021__1.jpg,Baguiati,2021,188/269/270/271/34 Ipc And 51 Of Disaster Management Act,Psi Malay Samajpati Of Baguiati Ps,6,0.7469,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS515-18-1-jpg,Baguiati PS515-18__1.jpg,Baguiati,2018,498A/406/34 Ipc,Swarnali Acharjee,4,0.9577,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS515-19-1-jpg,Baguiati PS515-19__1.jpg,Baguiati,2019,500/504/505(B) Ipc,Prosenjit Nag,4,0.9368,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS516-18-1-jpg,Baguiati PS516-18__1.jpg,Baguiati,2018,341/323/34 Ipc,Payel Barari,4,0.8848,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS516-19-1-jpg,Baguiati PS516-19__1.jpg,Baguiati,2019,420/120B Ipc,Srabonti Das,4,0.9781,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS516-2021-1-jpg,Baguiati PS516-2021__1.jpg,Baguiati,2021,188/269/270/271/34 Ipc And 51 Of Disaster Management Act,Psi Sanjoy Mukherjee Of Baguiati Ps,4,0.965,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS517-18-1-jpg,Baguiati PS517-18__1.jpg,Baguiati,2018,420 Ipc,Meeta Karmakar,4,0.8898,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS517-19-1-jpg,Baguiati PS517-19__1.jpg,Baguiati,2019,341/506/34 Ipc,Md. Sabir,5,0.8806,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS517-2021-1-jpg,Baguiati PS517-2021__1.jpg,Baguiati,2021,498A/406 Ipc &Amp; 3/4 D.P. Act.,Prerna Sharma,7,0.7753,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS518-18-1-jpg,Baguiati PS518-18__1.jpg,Baguiati,2018,379 Ipc,Dipankar Pramanick,6,0.8034,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS518-19-1-jpg,Baguiati PS518-19__1.jpg,Baguiati,2019,341/506/323/325/379/307/34 Ipc,Barun Rajbanshi,7,0.8599,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS518-2021-1-jpg,Baguiati PS518-2021__1.jpg,Baguiati,2021,188/269/270/271/34 Ipc And 51 Of Disaster Management Act,Si Shyamal Banik Of Baguiati Ps,4,0.8885,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS519-18-1-jpg,Baguiati PS519-18__1.jpg,Baguiati,2018,379/323/427/448/506 Ipc,Kamala Rani Paul,5,0.8522,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS519-19-1-jpg,Baguiati PS519-19__1.jpg,Baguiati,2019,420/406/467/468/471/120B Ipc,A. Senapati Director Of Bashiga Realty Private Limited,5,0.8459,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS519-2021-1-jpg,Baguiati PS519-2021__1.jpg,Baguiati,2021,46(A) B.E. Act,"Si Prashant Kr. Mahatha Baguiati Ps, Bdn Pc",4,0.7667,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS520-18-1-jpg,Baguiati PS520-18__1.jpg,Baguiati,2018,498A/406/34 Ipc,Aditi Brombha,5,0.9076,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS520-19-1-jpg,Baguiati PS520-19__1.jpg,Baguiati,2019,279/338/427 Ipc,Priya Das,5,0.8888,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS520-2021-1-jpg,Baguiati PS520-2021__1.jpg,Baguiati,2021,188/269/270/271/34 Ipc And 51 Of Disaster Management Act,Si Ananda Mohan Paul Of Baguiati Ps,7,0.7774,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS521-18-1-jpg,Baguiati PS521-18__1.jpg,Baguiati,2018,"135(I)(A)(B) Of Electricity Act, 2003",Biron Roy,4,0.9359,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS521-19-1-jpg,Baguiati PS521-19__1.jpg,Baguiati,2019,341/323/325/506/34 Ipc,Babita Sharma,4,0.918,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS521-2021-1-jpg,Baguiati PS521-2021__1.jpg,Baguiati,2021,,Lalita Agarwal,5,0.7815,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS522-18-1-jpg,Baguiati PS522-18__1.jpg,Baguiati,,341/325/307/506 Ipc,Hapijul Rahman,4,0.889,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS522-19-1-jpg,Baguiati PS522-19__1.jpg,Baguiati,2019,341/323/325/506/34 Ipc,Sabita Sharma,5,0.8078,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS522-2021-1-jpg,Baguiati PS522-2021__1.jpg,Baguiati,2021,420/323/506 Ipc,Ramesh Chandra Behera,5,0.9649,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS523-18-1-jpg,Baguiati PS523-18__1.jpg,Baguiati,2018,341/325/34 Ipc,Fatema Bibi,4,0.8697,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS523-19-1-jpg,Baguiati PS523-19__1.jpg,Baguiati,2019,498A Ipc,Kalpana Singh,4,0.9001,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS523-2021-1-jpg,Baguiati PS523-2021__1.jpg,Baguiati,2021,420/406/120B/34 Ipc,Anand Prakash Gupta,5,0.8582,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS524-18-1-jpg,Baguiati PS524-18__1.jpg,Baguiati,2018,279/337/323/427/34 Ipc,Srijan Ghosh,5,0.8763,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS524-2021-1-jpg,Baguiati PS524-2021__1.jpg,Baguiati,2021,399/402 Ipc,Psi Subhashish Sarkar Of Baguiati Ps,5,0.7931,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS525-18-1-jpg,Baguiati PS525-18__1.jpg,Baguiati,2018,420/406 Ipc,Surajit Saha,7,0.8366,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS525-2021-1-jpg,Baguiati PS525-2021__1.jpg,Baguiati,2021,341/323/325/427/506/34 Ipc,Apurba Mondal,5,0.8494,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS526-18-1-jpg,Baguiati PS526-18__1.jpg,Baguiati,2018,420/406/468/471/120 B Ipc,Biswanath Sen,5,0.8603,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS526-2021-1-jpg,Baguiati PS526-2021__1.jpg,Baguiati,2021,279/304A Ipc,Sanjib Ghosh,7,0.8098,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS527-18-1-jpg,Baguiati PS527-18__1.jpg,Baguiati,2018,420/406/468/471/120 B Ipc,Biswanath Sen,5,0.8746,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS527-19-1-jpg,Baguiati PS527-19__1.jpg,Baguiati,2019,448/323/325/506/34 Ipc,Dr. Santiranjan Biswas,4,0.9075,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS527-2021-1-jpg,Baguiati PS527-2021__1.jpg,Baguiati,2021,379 Ipc,Saikat Mondal,4,0.9593,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS528-18-1-jpg,Baguiati PS528-18__1.jpg,Baguiati,2018,498 A/325/506/509/34 Ipc,Mayna Bibi,5,0.8562,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS528-2021-1-jpg,Baguiati PS528-2021__1.jpg,Baguiati,2021,341/326/506 Ipc,Angsupati Biswas,5,0.8955,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS529-18-1-jpg,Baguiati PS529-18__1.jpg,,,448/323/427/506/34 Ipc,Radha Debi Shaw,2,0.8729,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS529-2021-1-jpg,Baguiati PS529-2021__1.jpg,Baguiati,2021,406 Ipc,Smt. Sumana Dolui Nee Das,5,0.7564,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS530-18-1-jpg,Baguiati PS530-18__1.jpg,Baguiati,2018,279/338/427/186/353/332/333/325/307/34 Ipc,Durga Mahali Asi Of Police,4,0.8564,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS530-2021-1-jpg,Baguiati PS530-2021__1.jpg,Baguiati,2021,341/323/506/34 Ipc,Sabera Bibi,5,0.8958,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS531-18-1-jpg,Baguiati PS531-18__1.jpg,,,,Mousumi Sardar (Mandal),1,0.9157,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS531-2021-1-jpg,Baguiati PS531-2021__1.jpg,Baguiati,2021,498A/420/325/406 Ipc,Sumita Saha,5,0.8624,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS532-18-1-jpg,Baguiati PS532-18__1.jpg,Baguiati,2018,147/323/427/504/506/34 Ipc,Krishna Biswas,4,0.9463,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS532-2021-1-jpg,Baguiati PS532-2021__1.jpg,Baguiati,2021,341/323/34 Ipc,Samad Mondal,4,0.9658,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS533-18-1-jpg,Baguiati PS533-18__1.jpg,Baguiati,2018,448/323/325/506/34 Ipc,Smt. Anima Bibi,5,0.7972,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS533-2021-1-jpg,Baguiati PS533-2021__1.jpg,Baguiati,2021,341/323/325/34 Ipc,Sunita Shaw,5,0.8933,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS534-18-1-jpg,Baguiati PS534-18__1.jpg,Baguiati,2018,341/323/506 Ipc,Meena Jaiswal,6,0.7792,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS534-2021-1-jpg,Baguiati PS534-2021__1.jpg,Baguiati,2021,341/447/323/325/354/427/504/509/34 Ipc,Soumen Mondal,5,0.9297,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS535-18-1-jpg,Baguiati PS535-18__1.jpg,Baguiati,2018,498 A/406/34 Ipc,,5,0.7535,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS535-2021-1-jpg,Baguiati PS535-2021__1.jpg,Baguiati,2021,279/188/323/353/506/34 Ipc,"Asi (Ub) 56 Biswajit Naskar Of Baguiati Traffic Guard, Bdn Pc",4,0.8779,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS536-18-1-jpg,Baguiati PS536-18__1.jpg,Baguiati,2018,21 (C)/29 Nd Act 1985 As Amended In 2001,Sabiruddin Mufti,5,0.7839,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS536-2021-1-jpg,Baguiati PS536-2021__1.jpg,Baguiati,2021,341/326/506 Ipc,Subir Ghosh,7,0.7706,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS537-18-1-jpg,Baguiati PS537-18__1.jpg,Baguiati,2018,341/325/379/506/34 Ipc,Asi Ganesh Sardar,4,0.9404,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS537-2021-1-jpg,Baguiati PS537-2021__1.jpg,Baguiati,2021,341/323/325/34 Ipc,Somnath Das,5,0.8764,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS538-18-1-jpg,Baguiati PS538-18__1.jpg,Baguiati,2018,420/120B/506 Ipc,Sanjib Saha,4,0.9662,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS538-2021-1-jpg,Baguiati PS538-2021__1.jpg,Baguiati,2021,279/338/304A Ipc,Anima Roy,4,0.9416,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS539-18-1-jpg,Baguiati PS539-18__1.jpg,Baguiati,2018,135 (I)(A )Electricity Act 2003,Sanjukta Ghosal,4,0.838,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS539-2021-1-jpg,Baguiati PS539-2021__1.jpg,Baguiati,2021,188/290/269/270/271/34 Ipc &Amp; 51 Of Disaster Management Act.,Si Preetam Singh Of Baguiati P.S,5,0.9105,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS540-18-1-jpg,Baguiati PS540-18__1.jpg,Baguiati,2018,135(I)(E) Electricity Act 2003,,3,0.8948,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS540-2021-1-jpg,Baguiati PS540-2021__1.jpg,Baguiati,2021,186/188/353/290/269/270/271/34 Ipc &Amp; 51 Of Disaster Management Act,Si Preetam Singh Of Baguiati,6,0.8293,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS541-18-1-jpg,Baguiati PS541-18__1.jpg,Baguiati,2018,,Sanjeat Biswas,5,0.8096,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS541-2021-1-jpg,Baguiati PS541-2021__1.jpg,Baguiati,2021,188/269/270/271/34 Ipc And 51 Of Disaster Management Act,Psi Malay Samajpati Of Baguiati Ps Bdn Pc,4,0.9732,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS542-18-1-jpg,Baguiati PS542-18__1.jpg,Baguiati,2018,304 Ipc,Priyanka Sarkar,4,0.9437,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS542-2021-1-jpg,Baguiati PS542-2021__1.jpg,Baguiati,2021,341/323/506 Ipc,Md Amiruddin,6,0.8578,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS543-18-1-jpg,Baguiati PS543-18__1.jpg,Baguiati,2018,420/406 Ipc,Biswarup Chakroborty,4,0.9516,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS543-2021-1-jpg,Baguiati PS543-2021__1.jpg,Baguiati,2021,341/325/354/379/506/34 Ipc,Sk Monnaf,5,0.8827,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS544-18-1-jpg,Baguiati PS544-18__1.jpg,Baguiati,2018,420/406 Ipc,Si Tribhuwan Singh,4,0.9425,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS544-2021-1-jpg,Baguiati PS544-2021__1.jpg,Baguiati,2021,498A/406/34 Ipc,Rehana Bibi,6,0.8474,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS545-18-1-jpg,Baguiati PS545-18__1.jpg,Baguiati,2018,341/325/354/307/506 Ipc,Ishita Das,4,0.9041,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS545-2021-1-jpg,Baguiati PS545-2021__1.jpg,Baguiati,2021,448/323/325/427/380/34 Ipc,Dolly Sadhukahan,7,0.735,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS546-18-1-jpg,Baguiati PS546-18__1.jpg,Baguiati,2018,,Md. Goni,4,0.8221,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS546-2021-1-jpg,Baguiati PS546-2021__1.jpg,Baguiati,2021,188/269/270/271/34 Ipc And 51 Of Disaster Management Act,Psi Subhankar Pal Of Baguiati Ps,6,0.8077,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS547-18-1-jpg,Baguiati PS547-18__1.jpg,Baguiati,2018,,Khokon Mondal,3,0.8983,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS547-2021-1-jpg,Baguiati PS547-2021__1.jpg,Baguiati,2021,,Si Manik Mondal Of Baguiati Ps,3,0.818,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS548-18-1-jpg,Baguiati PS548-18__1.jpg,Baguiati,2018,341/290/354/509 Ipc,Kalika Prashad Mishra,5,0.8374,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS548-2021-1-jpg,Baguiati PS548-2021__1.jpg,Baguiati,2021,420/406 Ipc,Amiya Krishna Panda,5,0.811,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS549-18-1-jpg,Baguiati PS549-18__1.jpg,Baguiati,2018,341/325/506/34 Ipc,Uttam Naskar,4,0.9774,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS549-2021-1-jpg,Baguiati PS549-2021__1.jpg,Baguiati,2021,420 Ipc,Pijush Biswas,6,0.799,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS550-18-1-jpg,Baguiati PS550-18__1.jpg,Baguiati,,399/402 Ipc,Si. Ujjawal Santra,7,0.7711,FIR_details.json,UNRESOLVED
+FIR-Baguiati-PS550-2021-1-jpg,Baguiati PS550-2021__1.jpg,Baguiati,2021,498A/323/506/34 Ipc,Soma Mondal,5,0.8372,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0200-2017-4289-1-jpg,Bidhannagar North PSBDN-NORTH-0200-2017-4289__1.jpg,Bidhannagar North,2017,,Sourav Chakraborty,3,0.8243,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0201-2017-4187-1-jpg,Bidhannagar North PSBDN-NORTH-0201-2017-4187__1.jpg,Bidhannagar North,2017,406/420/467/468/471/120B Ipc,Awadhesh Kumar Jha,10,0.7201,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0202-2017-4251-1-jpg,Bidhannagar North PSBDN-NORTH-0202-2017-4251__1.jpg,Bidhannagar North,2017,135(I)(E) Electricity Act,Sanjib Agarwal,6,0.8549,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0203-2017-4270-1-jpg,Bidhannagar North PSBDN-NORTH-0203-2017-4270__1.jpg,Bidhannagar North,2017,363/365 Ipc,Atanu Paul,5,0.8832,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0205-2017-1730-1-jpg,Bidhannagar North PSBDN-NORTH-0205-2017-1730__1.jpg,Bidhannagar North,2017,279/337/338 Ipc,Ranjit Biswas,5,0.8444,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0207-2017-1747-1-jpg,Bidhannagar North PSBDN-NORTH-0207-2017-1747__1.jpg,Bidhannagar North,2017,279/304 Ipc,Atindra Bhattacharya,4,0.9489,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0208-2017-2524-1-jpg,Bidhannagar North PSBDN-NORTH-0208-2017-2524__1.jpg,Bidhannagar North,2017,419/420/406 Ipc,Bhaskar Ganguly,6,0.8498,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0209-2017-2574-1-jpg,Bidhannagar North PSBDN-NORTH-0209-2017-2574__1.jpg,Bidhannagar North,2017,341/354/354B/325/323/509/506/34 Ipc,Puspa Roy,5,0.8052,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0210-2017-2578-1-jpg,Bidhannagar North PSBDN-NORTH-0210-2017-2578__1.jpg,Bidhannagar North,2017,323/325/34 Ipc,Kabita Gupta,6,0.7928,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0211-2017-2475-1-jpg,Bidhannagar North PSBDN-NORTH-0211-2017-2475__1.jpg,Bidhannagar North,,341/323/325/308/379/506/34 Ipc,Shamim Akhtar,3,0.7749,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0212-2017-2522-1-jpg,Bidhannagar North PSBDN-NORTH-0212-2017-2522__1.jpg,Bidhannagar North,2017,279/337/338 Ipc,Payel Ghosh,6,0.8644,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0213-2017-2509-1-jpg,Bidhannagar North PSBDN-NORTH-0213-2017-2509__1.jpg,Bidhannagar North,2017,379 Ipc,Md Sabir,6,0.8727,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0214-2017-2568-1-jpg,Bidhannagar North PSBDN-NORTH-0214-2017-2568__1.jpg,Bidhannagar North,2017,406/420/506 Ipc,Dr Mahua Chauduri,5,0.8989,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0215-2017-2477-1-jpg,Bidhannagar North PSBDN-NORTH-0215-2017-2477__1.jpg,Bidhannagar North,2017,381 Ipc,Raj Kumar Agarwal,5,0.8601,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0216-2017-3672-1-jpg,Bidhannagar North PSBDN-NORTH-0216-2017-3672__1.jpg,Bidhannagar North,2017,,Supti Roy,3,0.9131,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0217-2017-3628-1-jpg,Bidhannagar North PSBDN-NORTH-0217-2017-3628__1.jpg,Bidhannagar North,2017,323/354/509/506 Ipc,Bratati Banerjee,5,0.8382,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0218-2017-3621-1-jpg,Bidhannagar North PSBDN-NORTH-0218-2017-3621__1.jpg,Bidhannagar North,2017,381/120B Ipc,Sri Madhusudan Pal Asi Of Police 4Th Bn Kap,4,0.8306,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0219-2017-3662-1-jpg,Bidhannagar North PSBDN-NORTH-0219-2017-3662__1.jpg,Bidhannagar North,2017,341/323/325 Ipc,Sourav Biswas,5,0.9233,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0221-2017-5340-1-jpg,Bidhannagar North PSBDN-NORTH-0221-2017-5340__1.jpg,Bidhannagar North,2017,285/286/188 Ipc And 24Wb Fire Service Act,Si Pratapaditya Mondal,4,0.9055,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0222-2017-5361-1-jpg,Bidhannagar North PSBDN-NORTH-0222-2017-5361__1.jpg,Bidhannagar North,2017,285/286/188 Ipc And 24Wb Fire Service Act,Si Pratapaditya Mondal,5,0.8419,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0223-2017-5333-1-jpg,Bidhannagar North PSBDN-NORTH-0223-2017-5333__1.jpg,Bidhannagar North,2017,387 Ipc,Kartik Ch Karmaker,4,0.6709,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0224-2017-5429-1-jpg,Bidhannagar North PSBDN-NORTH-0224-2017-5429__1.jpg,Bidhannagar North,2017,354C/354B/506/509/34 Ipc,Arpita Acharya,4,0.8414,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0225-2017-5961-1-jpg,Bidhannagar North PSBDN-NORTH-0225-2017-5961__1.jpg,,,279/337/338 Ipc,Ratan Das,4,0.8221,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0226-2017-5903-1-jpg,Bidhannagar North PSBDN-NORTH-0226-2017-5903__1.jpg,Bidhannagar North,2017,143/145/283 Ipc,Si Soumen Tapaswi Of Bidhannagar North Ps,5,0.8282,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0227-2017-5975-1-jpg,Bidhannagar North PSBDN-NORTH-0227-2017-5975__1.jpg,Bidhannagar North,2017,406/467/471/474 Ipc,Shibani Mukherjee,6,0.7899,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0228-2017-5944-1-jpg,Bidhannagar North PSBDN-NORTH-0228-2017-5944__1.jpg,Bidhannagar North,2017,279/304 Ipc,Anurudra Parial,4,0.919,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0229-2017-5999-1-jpg,Bidhannagar North PSBDN-NORTH-0229-2017-5999__1.jpg,Bidhannagar North,2017,506/509 Ipc,Sahanaz Khatoon,4,0.9494,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0230-2017-5923-1-jpg,Bidhannagar North PSBDN-NORTH-0230-2017-5923__1.jpg,Bidhannagar North,2017,279/338 Ipc,Rishav Kr Gupta,6,0.8291,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0231-2017-5927-1-jpg,Bidhannagar North PSBDN-NORTH-0231-2017-5927__1.jpg,Bidhannagar North,2017,420/406 Ipc,Ranjit Kundu,4,0.8798,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0232-2017-5912-1-jpg,Bidhannagar North PSBDN-NORTH-0232-2017-5912__1.jpg,,,135 (I) (E) Electricity Act,Sanjib Agarwal,3,0.7196,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0233-2017-5916-1-jpg,Bidhannagar North PSBDN-NORTH-0233-2017-5916__1.jpg,Bidhannagar North,2017,135 (I) (E) Electricity Act,Sanjib Agarwal,5,0.8611,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0234-2017-5933-1-jpg,Bidhannagar North PSBDN-NORTH-0234-2017-5933__1.jpg,Bidhannagar North,2017,323/325/506/34 Ipc,Sk. Abdul Safik,6,0.7709,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0235-2017-5971-1-jpg,Bidhannagar North PSBDN-NORTH-0235-2017-5971__1.jpg,Bidhannagar North,,323/325/506 Ipc And 24 Maintenance And Welfare Of Parents And Senior Citizen Act.,Smt. Dipa Das,7,0.6797,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0236-2017-5920-1-jpg,Bidhannagar North PSBDN-NORTH-0236-2017-5920__1.jpg,Bidhannagar North,2017,279/333/353/114/34 Ipc,Bapan Mondal,4,0.8822,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0237-2017-8509-1-jpg,Bidhannagar North PSBDN-NORTH-0237-2017-8509__1.jpg,Bidhannagar North,2017,498A/406 Ipc,Rina Pal,4,0.9268,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0238-2017-7825-1-jpg,Bidhannagar North PSBDN-NORTH-0238-2017-7825__1.jpg,Bidhannagar North,2017,,Sanjib Agarwal,3,0.9101,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0239-2017-1973-1-jpg,Bidhannagar North PSBDN-NORTH-0239-2017-1973__1.jpg,Bidhannagar North,2017,363/365 Ipc,Mithu Mukherjee,4,0.9014,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0240-2017-1911-1-jpg,Bidhannagar North PSBDN-NORTH-0240-2017-1911__1.jpg,Bidhannagar North,2017,326 Ipc,Satish Tiwari,5,0.796,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0241-2017-1937-1-jpg,Bidhannagar North PSBDN-NORTH-0241-2017-1937__1.jpg,Bidhannagar North,2017,509/506 Ipc,Sonali Basu,6,0.8342,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0242-2017-4759-1-jpg,Bidhannagar North PSBDN-NORTH-0242-2017-4759__1.jpg,Bidhannagar North,2017,143/186/188/323/325/353/307/427/506/120B Ipc And Sec- 8/9/W.B.M.O.P.O Act 1972 And Sec- 3 P.D.P.P Act,,4,0.7494,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0243-2017-4780-1-jpg,Bidhannagar North PSBDN-NORTH-0243-2017-4780__1.jpg,Bidhannagar North,2017,166/325/506/34 Ipc,Lav Kumar Singh,5,0.8729,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0244-2017-4806-1-jpg,Bidhannagar North PSBDN-NORTH-0244-2017-4806__1.jpg,Bidhannagar North,2017,354D/506/509 Ipc,Payel Singh,4,0.9,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0245-2017-4850-1-jpg,Bidhannagar North PSBDN-NORTH-0245-2017-4850__1.jpg,Bidhannagar North,2017,186/332/353/506 Ipc,Ajoy Das,4,0.7888,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0246-2017-2293-1-jpg,Bidhannagar North PSBDN-NORTH-0246-2017-2293__1.jpg,Bidhannagar North,2017,420/465/467/468/471/120B Ipc,Soumyajit Das,4,0.7994,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0247-2017-2357-1-jpg,Bidhannagar North PSBDN-NORTH-0247-2017-2357__1.jpg,,,279/325/308/427 Ipc,Ranjit Mayra,3,0.7799,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0248-2017-4626-1-jpg,Bidhannagar North PSBDN-NORTH-0248-2017-4626__1.jpg,Bidhannagar North,2017,504/505(2)(3)/506 (Ii)/509 Ipc,Keya Das,4,0.7393,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0249-2017-2338-1-jpg,Bidhannagar North PSBDN-NORTH-0249-2017-2338__1.jpg,,2017,420/406 Ipc,Shibani Saha Chowdhury,3,0.7946,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-North-PSBDN-NORTH-0250-2017-2334-1-jpg,Bidhannagar North PSBDN-NORTH-0250-2017-2334__1.jpg,,2017,381 Ipc,Ronita Deb (Dutta),3,0.7246,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0100-2017-4941-1-jpg,Bidhannagar South PSBDN-SOUTH-0100-2017-4941__1.jpg,Bidhannagar South,2017,419/420/467/468/471/120B Ipc,,5,0.6785,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0101-2017-5779-1-jpg,Bidhannagar South PSBDN-SOUTH-0101-2017-5779__1.jpg,Bidhannagar South,2017,406/420/467(Para-Ii)/34 Ipc,Debasish Manna,4,0.9233,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0102-2017-4253-1-jpg,Bidhannagar South PSBDN-SOUTH-0102-2017-4253__1.jpg,Bidhannagar South,2017,399/402 Ipc,Si Mahesh Das,5,0.7438,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0103-2017-4177-1-jpg,Bidhannagar South PSBDN-SOUTH-0103-2017-4177__1.jpg,Bidhannagar South,2017,323/354/307/427/506/34 Ipc,Bimalendu Bose,4,0.9251,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0104-2017-1191-1-jpg,Bidhannagar South PSBDN-SOUTH-0104-2017-1191__1.jpg,Bidhannagar South,2017,381 Ipc,Deepti Bhattacharya,4,0.8014,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0105-2017-1202-1-jpg,Bidhannagar South PSBDN-SOUTH-0105-2017-1202__1.jpg,Bidhannagar South,2017,135 (I)(A) Electricity Act. 2003 As Amended 2007,Arpana Saha,4,0.7474,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0106-2017-1612-1-jpg,Bidhannagar South PSBDN-SOUTH-0106-2017-1612__1.jpg,Bidhannagar South,2017,279/338/427 Ipc,Aritra Mukherjee,5,0.8251,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0107-2017-1578-1-jpg,Bidhannagar South PSBDN-SOUTH-0107-2017-1578__1.jpg,Bidhannagar South,2017,341/325/354/506/34 Ipc,Nilratan Mondal,5,0.9056,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0108-2017-1983-1-jpg,Bidhannagar South PSBDN-SOUTH-0108-2017-1983__1.jpg,Bidhannagar South,2017,379 Ipc,Ritesh Kr. Gupta,4,0.9462,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0109-2017-2365-1-jpg,Bidhannagar South PSBDN-SOUTH-0109-2017-2365__1.jpg,Bidhannagar South,2017,279/338/427 Ipc,Linda Jude,6,0.8413,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0110-2017-3132-1-jpg,Bidhannagar South PSBDN-SOUTH-0110-2017-3132__1.jpg,Bidhannagar South,2017,,Dr.Arpan Chatterjee,3,0.9083,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0111-2017-3455-1-jpg,Bidhannagar South PSBDN-SOUTH-0111-2017-3455__1.jpg,Bidhannagar South,2017,279/338 Ipc,S.S Chowdhury,6,0.783,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0112-2017-4196-1-jpg,Bidhannagar South PSBDN-SOUTH-0112-2017-4196__1.jpg,Bidhannagar South,2017,498(A)/326/307 Ipc,Kusum Koiri,6,0.7946,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0113-2017-5336-1-jpg,Bidhannagar South PSBDN-SOUTH-0113-2017-5336__1.jpg,Bidhannagar South,2017,379/427/34,Indrajit Bose,4,0.8528,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0114-2017-5764-1-jpg,Bidhannagar South PSBDN-SOUTH-0114-2017-5764__1.jpg,Bidhannagar South,2017,,Sumana Barman,4,0.8681,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0115-2017-5789-1-jpg,Bidhannagar South PSBDN-SOUTH-0115-2017-5789__1.jpg,Bidhannagar South,2017,379 Ipc,Anlan Protap Dutta,8,0.7832,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0116-2017-5733-1-jpg,Bidhannagar South PSBDN-SOUTH-0116-2017-5733__1.jpg,Bidhannagar South,2017,,Sri Sabyasachi Dutta,3,0.8214,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0117-2017-7825-1-jpg,Bidhannagar South PSBDN-SOUTH-0117-2017-7825__1.jpg,Bidhannagar South,2017,498A/323/506/34 Ipc,Desdimona Banerjee,6,0.8025,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0118-2017-8167-1-jpg,Bidhannagar South PSBDN-SOUTH-0118-2017-8167__1.jpg,Bidhannagar South,2017,417/376,Parvin Sultana Mallick,5,0.8625,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0119-2017-8072-1-jpg,Bidhannagar South PSBDN-SOUTH-0119-2017-8072__1.jpg,Bidhannagar South,2017,504/406/379/408/384/385/34 Ipc,Sri Ashim Bhandari,4,0.9541,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0120-2017-8623-1-jpg,Bidhannagar South PSBDN-SOUTH-0120-2017-8623__1.jpg,Bidhannagar South,2017,,,4,0.7897,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0121-2017-7977-1-jpg,Bidhannagar South PSBDN-SOUTH-0121-2017-7977__1.jpg,Bidhannagar South,2017,430/379/34 Ipc,Ashok Kr. Singh,5,0.8371,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0122-2017-2304-1-jpg,Bidhannagar South PSBDN-SOUTH-0122-2017-2304__1.jpg,Bidhannagar South,2017,431/379/34 Ipc,Prabir Sadrar,5,0.7637,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0123-2017-3110-1-jpg,Bidhannagar South PSBDN-SOUTH-0123-2017-3110__1.jpg,Bidhannagar South,2017,,Samir Sarkar,3,0.9464,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0124-2017-3102-1-jpg,Bidhannagar South PSBDN-SOUTH-0124-2017-3102__1.jpg,Bidhannagar South,2017,,Prasanta Mishtri,3,0.8175,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0125-2017-3484-1-jpg,Bidhannagar South PSBDN-SOUTH-0125-2017-3484__1.jpg,Bidhannagar South,2017,279/338 Ipc,Arun Patra,6,0.8316,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0126-2017-4666-1-jpg,Bidhannagar South PSBDN-SOUTH-0126-2017-4666__1.jpg,Bidhannagar South,2017,,Si Mahesh Das,3,0.912,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0127-2017-5323-1-jpg,Bidhannagar South PSBDN-SOUTH-0127-2017-5323__1.jpg,Bidhannagar South,2017,498(A)/506/324/406 And 3/4 D.P.Act.,,5,0.843,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0128-2017-5391-1-jpg,Bidhannagar South PSBDN-SOUTH-0128-2017-5391__1.jpg,Bidhannagar South,2017,279/338 Ipc,Smritikanatalukder,4,0.9256,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0129-2017-5754-1-jpg,Bidhannagar South PSBDN-SOUTH-0129-2017-5754__1.jpg,,2017,419/34 Ipc,Si Debasish Debnath,5,0.8506,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0130-2017-5777-1-jpg,Bidhannagar South PSBDN-SOUTH-0130-2017-5777__1.jpg,Bidhannagar South,2017,380 Ipc,Ashima Saha,6,0.7581,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0131-2017-5735-1-jpg,Bidhannagar South PSBDN-SOUTH-0131-2017-5735__1.jpg,Bidhannagar South,2017,399/402 Ipc,Si Mahesh Das,5,0.8119,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0132-2017-6666-1-jpg,Bidhannagar South PSBDN-SOUTH-0132-2017-6666__1.jpg,Bidhannagar South,2017,381 Ipc,Sumita Chatterjee,4,0.8948,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0133-2017-1056-1-jpg,Bidhannagar South PSBDN-SOUTH-0133-2017-1056__1.jpg,Bidhannagar South,2017,448/354 Ipc,Menoka Biswas,5,0.7579,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0134-2017-9877-1-jpg,Bidhannagar South PSBDN-SOUTH-0134-2017-9877__1.jpg,Bidhannagar South,2017,498A/406/323/506/34 Ipc,Desdimona Banerjee,7,0.7594,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0135-2017-2524-1-jpg,Bidhannagar South PSBDN-SOUTH-0135-2017-2524__1.jpg,Bidhannagar South,2017,419/420/120B/34 Ipc,Uma Banerjee,5,0.9001,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0136-2017-2553-1-jpg,Bidhannagar South PSBDN-SOUTH-0136-2017-2553__1.jpg,Bidhannagar South,2017,341/380/387/427/451/454/467/468/471/506/34 Ipc,Arun Bhaduri,5,0.8451,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0137-2017-2921-1-jpg,Bidhannagar South PSBDN-SOUTH-0137-2017-2921__1.jpg,Bidhannagar South,2017,498A/306/34 Ipc And 4 Dp Act.,Shib Kumar Gupta,4,0.9401,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0138-2017-3231-1-jpg,Bidhannagar South PSBDN-SOUTH-0138-2017-3231__1.jpg,Bidhannagar South,2017,392 Ipc,Manoj Kumar Singh,4,0.8826,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0139-2017-3674-1-jpg,Bidhannagar South PSBDN-SOUTH-0139-2017-3674__1.jpg,Bidhannagar South,2017,419/468/471 Ipc,Shovan Kumar Kundu,4,0.9386,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0140-2017-3704-1-jpg,Bidhannagar South PSBDN-SOUTH-0140-2017-3704__1.jpg,Bidhannagar South,2017,341/323/376(2)(I)/511/506 Ipc And Section 4/18 Pocso Act.,Smt. Jyoti Pal,7,0.7604,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0141-2017-4466-1-jpg,Bidhannagar South PSBDN-SOUTH-0141-2017-4466__1.jpg,Bidhannagar South,2017,325/364/365/382/506 Ipc,Bikas Thakur,6,0.8408,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0142-2017-4460-1-jpg,Bidhannagar South PSBDN-SOUTH-0142-2017-4460__1.jpg,Bidhannagar South,2017,406/420/506/120B Ipc,Sunil Deorah,4,0.8577,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0143-2017-4823-1-jpg,Bidhannagar South PSBDN-SOUTH-0143-2017-4823__1.jpg,Bidhannagar South,2017,465/467/468/471/474 Ipc,Tapan Barik,4,0.8412,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0144-2017-4861-1-jpg,Bidhannagar South PSBDN-SOUTH-0144-2017-4861__1.jpg,Bidhannagar South,2017,279/338 Ipc,Mitrangshu Das,6,0.7463,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0145-2017-4859-1-jpg,Bidhannagar South PSBDN-SOUTH-0145-2017-4859__1.jpg,Bidhannagar South,2017,186/325/353/365/506 Ipc,Sunil Dutta,7,0.737,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0146-2017-7844-1-jpg,Bidhannagar South PSBDN-SOUTH-0146-2017-7844__1.jpg,Bidhannagar South,2017,341/323/427/506/34 Ipc,Sri Somit Sengupta,7,0.7485,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0147-2017-7787-1-jpg,Bidhannagar South PSBDN-SOUTH-0147-2017-7787__1.jpg,Bidhannagar South,2017,354/447 Ipc,Soumitra Mondal,4,0.911,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0148-2017-1164-1-jpg,Bidhannagar South PSBDN-SOUTH-0148-2017-1164__1.jpg,Bidhannagar South,2017,354 Ipc,Subrata Biswas,8,0.7386,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0149-2017-1181-1-jpg,Bidhannagar South PSBDN-SOUTH-0149-2017-1181__1.jpg,Bidhannagar South,2017,,Linda Lal Muaupuii,3,0.8666,FIR_details.json,UNRESOLVED
+FIR-Bidhannagar-South-PSBDN-SOUTH-0150-2017-1924-1-jpg,Bidhannagar South PSBDN-SOUTH-0150-2017-1924__1.jpg,Bidhannagar South,2017,420/406 Ipc,Piku Bhattacharjee,4,0.8376,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS40-20-1-jpg,Cyber-Crime PS40-20__1.jpg,Cyber-Crime,2020,468/469/471/419/420/120B/34,Debayan Nath,6,0.8213,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS41-20-1-jpg,Cyber-Crime PS41-20__1.jpg,Cyber-Crime,2020,419/420/120B/34 Ipc,Anish Depankaj,5,0.8849,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS42-20-1-jpg,Cyber-Crime PS42-20__1.jpg,Cyber-Crime,2020,419/420/120B Ipc,Prabal Dhar,5,0.8725,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS43-20-1-jpg,Cyber-Crime PS43-20__1.jpg,Cyber-Crime,2020,469/500,Uday Narayan Srivastava,5,0.8342,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS44-20-1-jpg,Cyber-Crime PS44-20__1.jpg,Cyber-Crime,2020,406/419/420/120B Ipc,Adidtya Jain,6,0.8576,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS45-20-1-jpg,Cyber-Crime PS45-20__1.jpg,Cyber-Crime,2020,419/420/120B Ipc,Pawan Jha,5,0.8958,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS46-20-1-jpg,Cyber-Crime PS46-20__1.jpg,Cyber-Crime,2020,408/419/420/120B Ipc,Ritesh R Agarwal,5,0.9061,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS47-20-1-jpg,Cyber-Crime PS47-20__1.jpg,Cyber-Crime,2020,419/420/120B Ipc,Jiban Chandra Chakraborty,5,0.8788,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS48-20-1-jpg,Cyber-Crime PS48-20__1.jpg,Cyber-Crime,2020,354D/500/509/507 Ipc,Sneha Ghosh,4,0.9375,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS49-2020-1-jpg,Cyber-Crime PS49-2020__1.jpg,Cyber-Crime,2020,419/427/500/507 Ipc,Ashim Kr. Nath,6,0.8732,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS50-2020-1-jpg,Cyber-Crime PS50-2020__1.jpg,Cyber-Crime,2020,419/420/471/120B Ipc,Prakash Khandelwal,4,0.9369,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS51-21-1-jpg,Cyber-Crime PS51-21__1.jpg,Cyber-Crime,2021,419/420/120B Ipc,Saunak Sarbajna,5,0.8317,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS52-21-1-jpg,Cyber-Crime PS52-21__1.jpg,Cyber-Crime,2021,354A/354D/500/507/509 Ipc,Pampa Das Bhuyina,4,0.8686,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS52-1-jpg,Cyber-Crime PS52__1.jpg,Cyber-Crime,2020,419/420/120B/34 Ipc,Md. Zaheer Alam,4,0.8258,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS53-21-1-jpg,Cyber-Crime PS53-21__1.jpg,Cyber-Crime,2021,,Alok Sen,4,0.8396,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS54-21-1-jpg,Cyber-Crime PS54-21__1.jpg,Cyber-Crime,2021,419/420/120B Ipc,Pinak Bose,4,0.8928,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS55-21-1-jpg,Cyber-Crime PS55-21__1.jpg,Cyber-Crime,,419/420/120B Ipc,Kankana Das,5,0.673,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS56-21-1-jpg,Cyber-Crime PS56-21__1.jpg,Cyber-Crime,2021,419/420/120B/468 Ipc.,Rajat Shankar Ghosh,5,0.8963,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS56-1-jpg,Cyber-Crime PS56__1.jpg,,,419/420/468/463/471/120B Ipc,,1,0.9663,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS57-21-1-jpg,Cyber-Crime PS57-21__1.jpg,Cyber-Crime,2021,419/420/120B Ipc,Sudeshna Sinha,5,0.8895,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS58-21-1-jpg,Cyber-Crime PS58-21__1.jpg,Cyber-Crime,2021,420/384/506/120B Ipc.,Dr. Sumitra Chandra,6,0.7715,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS59-21-1-jpg,Cyber-Crime PS59-21__1.jpg,Cyber-Crime,2021,420/406/384/468/471/506/120B Ipc.,Satarupa Mondal,6,0.851,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS60-21-1-jpg,Cyber-Crime PS60-21__1.jpg,Cyber-Crime,2021,,Saurabh Kumar,4,0.7832,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS61-21-1-jpg,Cyber-Crime PS61-21__1.jpg,Cyber-Crime,2021,420/469/507 Ipc.,Asish Mitra,4,0.8996,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS63-21-1-jpg,Cyber-Crime PS63-21__1.jpg,Cyber-Crime,2021,,Dr. Atanu Banerjee,3,0.6961,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS63-1-jpg,Cyber-Crime PS63__1.jpg,,2018,,Lalita Gupta,2,0.9259,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS64-202020-1-jpg,Cyber-Crime PS64%202020__1.jpg,Cyber-Crime,2020,354C/354D/385/500/507/509 Ipc,,3,0.8444,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS64-21-1-jpg,Cyber-Crime PS64-21__1.jpg,Cyber-Crime,2021,419/420/120B Ipc,Bithin Kumar Das,5,0.8924,FIR_details.json,UNRESOLVED
+FIR-Cyber-Crime-PS64-1-jpg,Cyber-Crime PS64__1.jpg,Cyber-Crime,2018,419/420/120B/34 Ipc,Mohit Seth,5,0.9051,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS01-1-jpg,ECO PARK PS01__1.jpg,,,143/145/427 Ipc Rw Section 3/4 Pdpp Act.,Sisir Kumar Guha,2,0.8242,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS02-1-jpg,ECO PARK PS02__1.jpg,Eco Park,2020,420/406/120B/34 Ipc,Tina Mondal,6,0.862,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS03-1-jpg,ECO PARK PS03__1.jpg,Eco Park,2020,,Rajesh Kr. Mondal,3,0.946,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS04-1-jpg,ECO PARK PS04__1.jpg,Eco Park,2020,380 Ipc,Munni Shaw,6,0.8501,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS05-1-jpg,ECO PARK PS05__1.jpg,Eco Park,2020,323/325/354/506/34 Ipc,Sri Shambhu Sardar,4,0.9081,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS06-1-jpg,ECO PARK PS06__1.jpg,Eco Park,2020,,Avijit Naskar,3,0.9051,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS09-1-jpg,ECO PARK PS09__1.jpg,,,,Jhantu Gayen,1,0.9553,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS10-1-jpg,ECO PARK PS10__1.jpg,Eco Park,,420 Ipc,Bilquis Khatun,4,0.8164,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS11-1-jpg,ECO PARK PS11__1.jpg,,2020,279/338 Ipc,Badal Ghosh,3,0.8653,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS12-1-jpg,ECO PARK PS12__1.jpg,Eco Park,,,Sainaz Khatun,2,0.6591,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS13-1-jpg,ECO PARK PS13__1.jpg,,,406/420/468/471/120B/409/476 Ipc,Mahadev Saha,2,0.7737,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS14-1-jpg,ECO PARK PS14__1.jpg,Eco Park,2020,406/409/420/467/468/471/120B Ipc,Mahadev Saha,5,0.8749,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS15-1-jpg,ECO PARK PS15__1.jpg,Eco Park,2020,306 Ipc,Awadhesh Kr. Chowdhury,4,0.9559,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS16-1-jpg,ECO PARK PS16__1.jpg,Eco Park,2020,420/406 Ipc,Md. Shahnawar,4,0.9176,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS17-20-2-1-jpg,ECO PARK PS17%20(2)__1.jpg,Eco Park,2021,341/323/325/3747/506/34 Ipc,Raima Bibi,4,0.9647,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS17-1-jpg,ECO PARK PS17__1.jpg,Eco Park,,,Sailen Pyne,2,0.8651,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS18-1-jpg,ECO PARK PS18__1.jpg,Eco Park,2020,420/406/120B Ipc,Chief Manager Of Sbi,6,0.789,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS19-1-jpg,ECO PARK PS19__1.jpg,Eco Park,2020,,Praveen Kajriwal,3,0.9503,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS1-1-jpg,ECO PARK PS1__1.jpg,,,363 Ipc,Mainul Abedin,2,0.7914,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS20-1-jpg,ECO PARK PS20__1.jpg,Eco Park,2020,406/420/34 Ipc,Bikash Singha Roy,6,0.8764,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS21-1-jpg,ECO PARK PS21__1.jpg,Eco Park,2020,420/406/34 Ipc,Pradipta Thakur,4,0.9486,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS22-1-jpg,ECO PARK PS22__1.jpg,Eco Park,2020,379 Ipc,Jamshed Ali,4,0.9163,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS23-1-jpg,ECO PARK PS23__1.jpg,Eco Park,2020,,Saikh Bablu,3,0.9205,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS24-1-jpg,ECO PARK PS24__1.jpg,Eco Park,2020,4C Of Wblr Act. &Amp; 4D Of The Wblr Act. 1955,Sri Trathagata Mukherjee,8,0.7507,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS25-1-jpg,ECO PARK PS25__1.jpg,Eco Park,2020,379/114 Ipc,Afzal Elahi,6,0.8598,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS26-1-jpg,ECO PARK PS26__1.jpg,Eco Park,2020,380 Ipc,Avijit Kundu,5,0.8219,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS27-1-jpg,ECO PARK PS27__1.jpg,Eco Park,2020,,Sahid Ansari,3,0.8556,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS28-1-jpg,ECO PARK PS28__1.jpg,Eco Park,2020,341/325/384/386/379/406/506/34 Ipc,Md. Javed,6,0.8489,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS29-1-jpg,ECO PARK PS29__1.jpg,Eco Park,2020,279/338 Ipc,Shivang Mathua,4,0.939,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS2-1-jpg,ECO PARK PS2__1.jpg,Eco Park,,341/325/323/34 Ipc,Nirmal Sarkar,5,0.7025,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS30-1-jpg,ECO PARK PS30__1.jpg,Eco Park,2020,279/338/427 Ipc,Bablu Molla,4,0.9232,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS31-1-jpg,ECO PARK PS31__1.jpg,Eco Park,2020,420/406 Ipc,Sk. Noor Amin,5,0.8234,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS32-1-jpg,ECO PARK PS32__1.jpg,Eco Park,2020,279/338/427 Ipc,Sukhbir Singh,4,0.9239,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS33-1-jpg,ECO PARK PS33__1.jpg,Eco Park,2020,465/468/469/471/420/419 Ipc,Bikash Kar Gupta,4,0.9463,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS34-1-jpg,ECO PARK PS34__1.jpg,Eco Park,2020,406/420/468/471/120B/409/467 Ipc,Mahadev Saha,4,0.8371,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS35-1-jpg,ECO PARK PS35__1.jpg,Eco Park,2020,376(F)(I) Ipc Rw Section 06 Of Pocso Act.,Basudev Mistri,6,0.8354,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS36-1-jpg,ECO PARK PS36__1.jpg,Eco Park,2020,399/402,Si Avijit Banerjee,4,0.788,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS37-1-jpg,ECO PARK PS37__1.jpg,Eco Park,2020,379 Ipc,Basant Kumar Soni,4,0.9224,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS38-1-jpg,ECO PARK PS38__1.jpg,Eco Park,2020,341/323/325/326/34 Ipc,Kanan Saha,5,0.9182,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS39-1-jpg,ECO PARK PS39__1.jpg,Eco Park,2020,420/406/120B Ipc,Avijit Majumder,5,0.7339,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS3-1-jpg,ECO PARK PS3__1.jpg,Eco Park,,,Sabana Khatun,2,0.9204,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS40-1-jpg,ECO PARK PS40__1.jpg,Eco Park,2020,193/209/420/120B/34 Ipc,Md. Shanawaz Ali,4,0.8244,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS41-1-jpg,ECO PARK PS41__1.jpg,Eco Park,,,Asi Jibesh Das,2,0.8534,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS42-1-jpg,ECO PARK PS42__1.jpg,Eco Park,,420 Ipc,Salim Khan,3,0.8724,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS43-1-jpg,ECO PARK PS43__1.jpg,Eco Park,,,Rajina Bibi,3,0.6999,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS44-1-jpg,ECO PARK PS44__1.jpg,Eco Park,2020,420/406/506 Ipc,,4,0.777,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS45-1-jpg,ECO PARK PS45__1.jpg,Eco Park,2020,279/304A/427 Ipc,Prosenjit Saha,5,0.8772,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS46-1-jpg,ECO PARK PS46__1.jpg,Eco Park,2020,279/427 Ipc,Omar Faruk Gazi,5,0.9022,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS47-1-jpg,ECO PARK PS47__1.jpg,Eco Park,2020,188 Ipc,Si Soumen Tapaswi,6,0.7973,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS48-1-jpg,ECO PARK PS48__1.jpg,Eco Park,2020,25(I)(A)/27 Arms Act.,Pravakar Adhikary,6,0.8296,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS49-1-jpg,ECO PARK PS49__1.jpg,Eco Park,2021,363 Ipc,Md. Shamsher,6,0.8279,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS4-1-jpg,ECO PARK PS4__1.jpg,Eco Park,,,Mou Pramanick,2,0.9201,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS50-1-jpg,ECO PARK PS50__1.jpg,Eco Park,2021,323/325/341/379/34 Ipc,Smt. Latika Das,5,0.7804,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS51-1-jpg,ECO PARK PS51__1.jpg,Eco Park,2021,379/427 Ipc,Abijit Jana,5,0.8876,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS5-1-jpg,ECO PARK PS5__1.jpg,Eco Park,,342/354/506 Ipc,Sahitree Brahma,3,0.9077,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS6-1-jpg,ECO PARK PS6__1.jpg,Eco Park,,363/364/364A/365/368/34 Ipc,Abdul Salam,3,0.9115,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS7-1-jpg,ECO PARK PS7__1.jpg,Eco Park,,354C Ipc,Rakhi Mistri,3,0.8735,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS8-1-jpg,ECO PARK PS8__1.jpg,Eco Park,,341/323/325/379/506/34 Ipc,Biman Debnath,3,0.8956,FIR_details.json,UNRESOLVED
+FIR-ECO-PARK-PS9-1-jpg,ECO PARK PS9__1.jpg,,2020,25(I)(A)/27 Arms Act.,Si Pravakar Adhikary,3,0.5476,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS01-1-jpg,Electronics Complex PS01__1.jpg,,2020,,Debaditya Das,3,0.9471,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS02-1-jpg,Electronics Complex PS02__1.jpg,Electronics Complex,2020,279/337/427,Sri Ranjit Kr. Das,4,0.8653,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS03-2020-1-jpg,Electronics Complex PS03-2020__1.jpg,Electronics Complex,2020,341/323/506(Ii) Ipc,Partha Maity,6,0.8756,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS04-2020-1-jpg,Electronics Complex PS04-2020__1.jpg,Electronics Complex,2020,399/402 Ipc,Si Sudipta Naskar,4,0.921,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS05-1-jpg,Electronics Complex PS05__1.jpg,Electronics Complex,2020,419/420/406/120B Ipc.,Jayanta Roy,4,0.9476,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS07-1-jpg,Electronics Complex PS07__1.jpg,Electronics Complex,2021,399/402 Ipc.,Si Nihar Ranjan Barman Of Ec Ps,5,0.9267,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS09-1-jpg,Electronics Complex PS09__1.jpg,Electronics Complex,2020,354C Ipc,Priyanka Haldar,4,0.8856,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS1-22-1-jpg,Electronics Complex PS1-22__1.jpg,Eco Park,2022,188/269/270Ipc R/W 51(I)(B) Dm Act. &Amp; 02 Of Ed Act.,Psi Navin Tshring Bhutia,7,0.8438,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS10-19-1-jpg,Electronics Complex PS10-19__1.jpg,,2019,420/406 Ipc,,2,0.9325,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS10-22-1-jpg,Electronics Complex PS10-22__1.jpg,Electronics Complex,2022,341/279/338/195A/506 Ipc,Soma Mondal,5,0.8304,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS10-1-jpg,Electronics Complex PS10__1.jpg,,2020,,Ashutosh Kumar,2,0.7956,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS11-19-1-jpg,Electronics Complex PS11-19__1.jpg,,2019,341/325/506/34 Ipc,Siddhartha Sharma,3,0.7623,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS11-22-1-jpg,Electronics Complex PS11-22__1.jpg,Electronics Complex,2022,188/269/270/271 Ipc &Amp; 51 Disaster Management Act-2005.,Asi Suman Ganguly Of Electronics Complex Ps,5,0.7512,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS11-1-jpg,Electronics Complex PS11__1.jpg,Electronics Complex,2020,420/406/120B Ipc.,Md. Sk. Ansaruddin,6,0.7345,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS12-2020-1-jpg,Electronics Complex PS12-2020__1.jpg,Electronics Complex,2020,420/406/120B Ipc,Bijan Mondal,6,0.8471,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS12-22-1-jpg,Electronics Complex PS12-22__1.jpg,Electronics Complex,2022,188/269/270/271 Ipc &Amp; 51 Disaster Management Act-2005.,Asi Suman Ganguly Of Electronics Complex Ps,10,0.7269,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS12-1-jpg,Electronics Complex PS12__1.jpg,Electronics Complex,2021,419/420/406/120B Ipc,Dwaipayan Benerjee,8,0.8426,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS13-22-1-jpg,Electronics Complex PS13-22__1.jpg,Electronics Complex,2022,188/269/270/271 Ipc &Amp; 51 Disaster Management Act-2005.,Asi Suman Ganguly Of Electronics Complex Ps,7,0.8238,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS13-1-jpg,Electronics Complex PS13__1.jpg,Electronics Complex,2020,279/338/427 Ipc,Bijan Mondal,6,0.7671,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS14-22-1-jpg,Electronics Complex PS14-22__1.jpg,Electronics Complex,2022,279/427/304A Ipc,Iqbal Ahme,5,0.8394,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS14-1-jpg,Electronics Complex PS14__1.jpg,Electronics Complex,2020,419/420 Ipc.,Dr. Saumen Mapdar,4,0.8113,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS15-20-1-jpg,Electronics Complex PS15-20__1.jpg,Electronics Complex,2020,279/337/427 Ipc,Mr. Samik Basu,6,0.8713,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS15-22-1-jpg,Electronics Complex PS15-22__1.jpg,Electronics Complex,2022,,Asi Suman Ganguly Of Electronics Complex Ps,3,0.7331,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS15-1-jpg,Electronics Complex PS15__1.jpg,Electronics Complex,2021,379/413 Ipc.,,4,0.8795,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS16-22-1-jpg,Electronics Complex PS16-22__1.jpg,Electronics Complex,2022,188/269/270/271 Ipc &Amp; 51 Disaster Management Act-2005.,Asi Suman Ganguly Of Electronics Complex Ps,5,0.8683,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS16-1-jpg,Electronics Complex PS16__1.jpg,Electronics Complex,2020,341/323/427/506/34 Ipc,Prof. Anil Bikash Choudhury,6,0.8261,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS1-1-jpg,Electronics Complex PS1__1.jpg,,2021,,Sudip Das,2,0.8582,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS2-22-1-jpg,Electronics Complex PS2-22__1.jpg,Rajarhat,2022,417/376 Ipc.,Sahida Khatun,8,0.7816,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS2-1-jpg,Electronics Complex PS2__1.jpg,Electronics Complex,2021,420/406 Ipc.,Bikash Chandra Paul,4,0.8958,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS3-22-1-jpg,Electronics Complex PS3-22__1.jpg,Rajarhat,2022,188/269/270 Ipc &Amp; Section 51 Disaster Management Act.,Amirul Haque Naskar Asi,4,0.8493,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS3-1-jpg,Electronics Complex PS3__1.jpg,Electronics Complex,2021,420/120B Ipc.,Sujoy Shome,5,0.8521,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS4-22-1-jpg,Electronics Complex PS4-22__1.jpg,Rajarhat,2022,498A/325/307/506/34 Ipc &Amp; 3/4 D.P. Act.,Anowara Gayen,4,0.771,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS4-1-jpg,Electronics Complex PS4__1.jpg,Electronics Complex,2021,420/406 Ipc.,Chetan Kumar Jain,5,0.8389,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS5-21-1-jpg,Electronics Complex PS5-21__1.jpg,,2021,420/467/120B Ipc,Ajoy Kumar Poddar,4,0.8734,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS5-22-1-jpg,Electronics Complex PS5-22__1.jpg,Rajarhat,2022,188/269/270 Ipc &Amp; Section 51 Disaster Management Act.,Pankaj Ghosh Psi,5,0.792,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS5-1-jpg,Electronics Complex PS5__1.jpg,Electronics Complex,2019,420/406/34 Ipc.,,3,0.8978,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS6-21-1-jpg,Electronics Complex PS6-21__1.jpg,Electronics Complex,2021,366 Ipc,Sunita Mandal,7,0.8384,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS6-22-1-jpg,Electronics Complex PS6-22__1.jpg,Bidhannagar North,2022,379 Ipc,Mr. Amitava Mukherjee,5,0.7328,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS6-1-jpg,Electronics Complex PS6__1.jpg,Electronics Complex,2020,419/420/406/120B Ipc,,5,0.7812,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS7-22-1-jpg,Electronics Complex PS7-22__1.jpg,Bidhannagar North,2022,341/323/506/34 Ipc &Amp; 24 Of The Maintenance Welfare Of Parents And Senior Citizens Act.,Ajay Kumar Bhowmick,4,0.6686,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS7-1-jpg,Electronics Complex PS7__1.jpg,Electronics Complex,2020,341/323/506/34 Ipc,,3,0.9141,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS8-21-1-jpg,Electronics Complex PS8-21__1.jpg,Electronics Complex,2021,341/325/307/506/34 Ipc. And 25/27 Arms Act.,Gautami Das,6,0.896,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS8-22-1-jpg,Electronics Complex PS8-22__1.jpg,Rajarhat,2022,326/341/307/34 Ipc.,Baidya Nath Tarafder,5,0.8017,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS8-1-jpg,Electronics Complex PS8__1.jpg,Electronics Complex,2020,498A/406/323/506 Ipc And Â¾ D.P Act.,,3,0.8881,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS9-21-1-jpg,Electronics Complex PS9-21__1.jpg,Electronics Complex,2021,498A/307/325/506 Ipc.,Anjana Mallick,12,0.7346,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS9-22-1-jpg,Electronics Complex PS9-22__1.jpg,,,,Asi Suman Ganguly Of Electronics Complex Ps,1,0.9308,FIR_details.json,UNRESOLVED
+FIR-Electronics-Complex-PS9-1-jpg,Electronics Complex PS9__1.jpg,,2019,379 Ipc,Faiz Khan,3,0.9251,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS01-1-jpg,Lake Town PS01__1.jpg,Lake Town,2020,381 Ipc,Saikat Gupta,5,0.9178,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS02-1-jpg,Lake Town PS02__1.jpg,Lake Town,2020,419/420/406/120B Ipc,Biswajit Ray Chowdhury,6,0.7946,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS03-1-jpg,Lake Town PS03__1.jpg,,2020,,Priyabala Halder,3,0.8985,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS04-1-jpg,Lake Town PS04__1.jpg,Lake Town,2021,379/411/413/414 Ipc,,4,0.7511,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS05-1-jpg,Lake Town PS05__1.jpg,Lake Town,2021,,Mr. Abhishek Chowdhury,5,0.8277,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS06-1-jpg,Lake Town PS06__1.jpg,Lake Town,2021,498A/34 Ipc,Sangeeta Palit,6,0.7595,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS07-1-jpg,Lake Town PS07__1.jpg,Lake Town,,279/338/427 Ipc,Niraj Jha,3,0.8123,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS08-1-jpg,Lake Town PS08__1.jpg,Lake Town,2021,354D/506/34 Ipc,Rituparna Chatterjee,7,0.8525,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS09-1-jpg,Lake Town PS09__1.jpg,Lake Town,2021,498A/406/34 Ipc &Amp; 3/4 Dp Act.,,3,0.8703,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS10-1-jpg,Lake Town PS10__1.jpg,Lake Town,2020,323/325/506/34 Ipc,Chumki Kundu,6,0.7798,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS11-1-jpg,Lake Town PS11__1.jpg,Lake Town,2020,342/323/379/406/506/34 Ipc,Roshan Jha,7,0.8497,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS12-1-jpg,Lake Town PS12__1.jpg,Lake Town,2021,447/323/324/506/34 Ipc,Giri Raj Dey,5,0.7827,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS13-1-jpg,Lake Town PS13__1.jpg,Lake Town,2020,379 Ipc,Soumen Chatterjee,5,0.8115,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS14-1-jpg,Lake Town PS14__1.jpg,Lake Town,2020,406/420/120B/506 Ipc,Krishana Maity,6,0.9259,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS15-1-jpg,Lake Town PS15__1.jpg,Lake Town,2020,341/323/379/363/365/506/ 34 Ipc,Shashi Jaiswal,5,0.9016,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS16-1-jpg,Lake Town PS16__1.jpg,Lake Town,2020,406/419/468/120B Ipc,Arindam Sen,5,0.7916,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS17-1-jpg,Lake Town PS17__1.jpg,Lake Town,2020,341/323/325/506 Ipc,Kabita Roy,5,0.9044,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS18-1-jpg,Lake Town PS18__1.jpg,Lake Town,2020,,Kalyen Bhattacharja,3,0.9643,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS19-1-jpg,Lake Town PS19__1.jpg,Lake Town,,363 Ipc,,2,0.7309,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS1-1-jpg,Lake Town PS1__1.jpg,Nscbi Airport,2022,269/188/270 Ipc &Amp; 51 D.M Act.,Psi Nasir Jamal,5,0.8202,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS2-1-jpg,Lake Town PS2__1.jpg,Nscbi Airport,2022,188/269/270 Ipc &Amp; 51 D.M .Act.,Psi Nasir Jamal,6,0.8553,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS3-1-jpg,Lake Town PS3__1.jpg,,2022,188/186/353/332/506 Ipc,Shyamal Roy,4,0.6983,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS4-1-jpg,Lake Town PS4__1.jpg,Lake Town,2020,420/406/120B Ipc,M.D Javed,4,0.8019,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS5-1-jpg,Lake Town PS5__1.jpg,,,342/325 Ipc,Tumpa Dutta,2,0.7954,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS6-1-jpg,Lake Town PS6__1.jpg,Lake Town,2020,323/509 Ipc,Sudeshna Paul Chowdhury,4,0.8146,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS7-1-jpg,Lake Town PS7__1.jpg,Lake Town,2020,379/411 Ipc,Amit Kr Mondal,5,0.8671,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS8-1-jpg,Lake Town PS8__1.jpg,Lake Town,2020,379 Ipc,Zinia Biswas,5,0.8701,FIR_details.json,UNRESOLVED
+FIR-Lake-Town-PS9-1-jpg,Lake Town PS9__1.jpg,Lake Town,2020,498A/406/380/504/506 Ipc,Salma Bibi,5,0.7201,FIR_details.json,UNRESOLVED
+FIR-NSCBI-Airport-PSNSCBI-AIRPORT-0001-2017-2488-1-jpg,NSCBI Airport PSNSCBI-AIRPORT-0001-2017-2488__1.jpg,Nscbi Airport,2017,U/S 279/338/427 Ipc,Rakhi Debsharma,7,0.8175,FIR_details.json,UNRESOLVED
+FIR-NSCBI-Airport-PSNSCBI-AIRPORT-0002-2018-9706-1-jpg,NSCBI Airport PSNSCBI-AIRPORT-0002-2018-9706__1.jpg,,,,Bikesh Kumar Biswas,5,0.7392,FIR_details.json,UNRESOLVED
+FIR-NSCBI-Airport-PSNSCBI-AIRPORT-0003-2017-2887-1-jpg,NSCBI Airport PSNSCBI-AIRPORT-0003-2017-2887__1.jpg,Nscbi Airport,,,,2,0.5547,FIR_details.json,UNRESOLVED
+FIR-NSCBI-Airport-PSNSCBI-AIRPORT-0003-2018-3799-1-jpg,NSCBI Airport PSNSCBI-AIRPORT-0003-2018-3799__1.jpg,,,,Shri Anjan Das,1,0.8884,FIR_details.json,UNRESOLVED
+FIR-NSCBI-Airport-PSNSCBI-AIRPORT-0004-2017-3235-1-jpg,NSCBI Airport PSNSCBI-AIRPORT-0004-2017-3235__1.jpg,Nscbi Airport,2017,U/S 465/468/471 Ipc,Rabindra Nath Adhikary,4,0.853,FIR_details.json,UNRESOLVED
+FIR-NSCBI-Airport-PSNSCBI-AIRPORT-0004-2018-5942-1-jpg,NSCBI Airport PSNSCBI-AIRPORT-0004-2018-5942__1.jpg,,,,Subhadip Paul,2,0.6147,FIR_details.json,UNRESOLVED
+FIR-NSCBI-Airport-PSNSCBI-AIRPORT-0005-2018-5904-1-jpg,NSCBI Airport PSNSCBI-AIRPORT-0005-2018-5904__1.jpg,,,,Manash Bandhapadhyay,2,0.6147,FIR_details.json,UNRESOLVED
+FIR-NSCBI-Airport-PSNSCBI-AIRPORT-0008-2017-8566-1-jpg,NSCBI Airport PSNSCBI-AIRPORT-0008-2017-8566__1.jpg,Nscbi Airport,,,,1,0.5563,FIR_details.json,UNRESOLVED
+FIR-NSCBI-Airport-PSNSCBI-AIRPORT-0009-2018-2186-1-jpg,NSCBI Airport PSNSCBI-AIRPORT-0009-2018-2186__1.jpg,,,,Bikash Kumar Biswas,4,0.5717,FIR_details.json,UNRESOLVED
+FIR-NSCBI-Airport-PSNSCBI-AIRPORT-0010-2018-5239-1-jpg,NSCBI Airport PSNSCBI-AIRPORT-0010-2018-5239__1.jpg,,,,Mrinal Kanti Narth,2,0.6233,FIR_details.json,UNRESOLVED
+FIR-NSCBI-Airport-PSNSCBI-AIRPORT-0011-2017-1590-1-jpg,NSCBI Airport PSNSCBI-AIRPORT-0011-2017-1590__1.jpg,Nscbi Airport,2017,U/S 465/468/471 Ipc,Ranjit Saikia,4,0.7985,FIR_details.json,UNRESOLVED
+FIR-NSCBI-Airport-PSNSCBI-AIRPORT-0011-2018-4455-1-jpg,NSCBI Airport PSNSCBI-AIRPORT-0011-2018-4455__1.jpg,,,,Lalgoulian Vaiphei,3,0.6958,FIR_details.json,UNRESOLVED
+FIR-NSCBI-Airport-PSNSCBI-AIRPORT-0012-2017-1812-1-jpg,NSCBI Airport PSNSCBI-AIRPORT-0012-2017-1812__1.jpg,Nscbi Airport,2017,U/S 465/468/471 Ipc,Arun Kr. Das,4,0.7863,FIR_details.json,UNRESOLVED
+FIR-NSCBI-Airport-PSNSCBI-AIRPORT-0013-2017-2114-1-jpg,NSCBI Airport PSNSCBI-AIRPORT-0013-2017-2114__1.jpg,Nscbi Airport,2017,,Mahatabuddin Mondal,4,0.7749,FIR_details.json,UNRESOLVED
+FIR-NSCBI-Airport-PSNSCBI-AIRPORT-0013-2018-3457-1-jpg,NSCBI Airport PSNSCBI-AIRPORT-0013-2018-3457__1.jpg,,,,Mohan Chandra Patra,2,0.7389,FIR_details.json,UNRESOLVED
+FIR-Women-PS51-1-jpg,Women PS51__1.jpg,Women,2018,498A/354/325/307/506/120B Ipc,Gulab Chand Shaw,4,0.8931,FIR_details.json,UNRESOLVED
+FIR-Women-PS52-1-jpg,Women PS52__1.jpg,Women,2018,,Kakuli Das,3,0.9051,FIR_details.json,UNRESOLVED
+FIR-Women-PS53-1-jpg,Women PS53__1.jpg,Nscbi Airport,2018,,,3,0.8475,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0001-2018-1189-1-jpg,Women PSWOMEN-0001-2018-1189__1.jpg,Women,2018,498A/406/313/34 Ipc,,4,0.8704,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0002-2017-2099-1-jpg,Women PSWOMEN-0002-2017-2099__1.jpg,Women,2017,,Madhumita Ghosh,3,0.9529,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0003-2018-4808-1-jpg,Women PSWOMEN-0003-2018-4808__1.jpg,Women,2018,,Paromita Pauline Dey,5,0.7512,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0004-2018-2872-1-jpg,Women PSWOMEN-0004-2018-2872__1.jpg,,2018,498A/307/34 Ipc,Shibani Mondal,3,0.8915,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0005-2018-3968-1-jpg,Women PSWOMEN-0005-2018-3968__1.jpg,Women,2018,,,4,0.9001,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0006-2018-3119-1-jpg,Women PSWOMEN-0006-2018-3119__1.jpg,Women,2018,341/47/325/506/34 Ipc,Titas Roy,5,0.8349,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0007-2018-4620-1-jpg,Women PSWOMEN-0007-2018-4620__1.jpg,Women,2018,498A/325/307 Ipc,Tapashi Santra,4,0.9303,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0008-2018-4643-1-jpg,Women PSWOMEN-0008-2018-4643__1.jpg,Women,2018,498A/323/34 Ipc,Survita Mondal,4,0.9565,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0009-2018-4645-1-jpg,Women PSWOMEN-0009-2018-4645__1.jpg,Women,2018,498A/506 Ipc And Sec 4 D.P. Act,Mahashita Das,8,0.7491,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0010-2017-3294-1-jpg,Women PSWOMEN-0010-2017-3294__1.jpg,Women,2017,341/323/326/34 Ipc,,5,0.7373,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0010-2018-5325-1-jpg,Women PSWOMEN-0010-2018-5325__1.jpg,Women,2018,498A/494/495 Ipc,Madhuri Kumari,4,0.8757,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0011-2018-5585-1-jpg,Women PSWOMEN-0011-2018-5585__1.jpg,Women,2018,498A/354A/506/34 Ipc And 3/4 D.P Act.,Sumita Kumari Balmiki,4,0.8312,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0012-2017-4054-1-jpg,Women PSWOMEN-0012-2017-4054__1.jpg,Women,2017,,,3,0.735,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0012-2018-3062-1-jpg,Women PSWOMEN-0012-2018-3062__1.jpg,Women,2018,498A/506 Ipc,Rupa Pramanik,6,0.6879,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0013-2018-5015-1-jpg,Women PSWOMEN-0013-2018-5015__1.jpg,Nscbi Airport,,341/325/308/34 Ipc,Mukesh Kr. Roy,5,0.7473,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0014-2018-1609-1-jpg,Women PSWOMEN-0014-2018-1609__1.jpg,Women,2018,498A/323/307/406 Ipc,Arpita Mondal,4,0.8758,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0015-2017-2296-1-jpg,Women PSWOMEN-0015-2017-2296__1.jpg,Women,2017,498A Ipc,Ananya Chakrabarti,6,0.8055,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0015-2018-4208-1-jpg,Women PSWOMEN-0015-2018-4208__1.jpg,Nscbi Airport,2018,,Mampi Das,5,0.7975,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0016-2018-4785-1-jpg,Women PSWOMEN-0016-2018-4785__1.jpg,,2018,498A/341/323/325/506(Ii)/307 Ipc,Piyali Pal,3,0.9425,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0017-2017-5604-1-jpg,Women PSWOMEN-0017-2017-5604__1.jpg,Women,2017,498(A) Ipc,Aparna Dey,5,0.8277,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0017-2018-5587-1-jpg,Women PSWOMEN-0017-2018-5587__1.jpg,,2018,420/465/467/471 Ipc,Debasish Sarkar,3,0.9432,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0018-2018-1194-1-jpg,Women PSWOMEN-0018-2018-1194__1.jpg,Nscbi Airport,2018,279/427 Ipc,Arbinb Kr. Roy,6,0.7919,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0019-2018-1248-1-jpg,Women PSWOMEN-0019-2018-1248__1.jpg,Women,2018,406 Ipc,Ruma Mukherjee,6,0.7926,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0020-2017-5914-1-jpg,Women PSWOMEN-0020-2017-5914__1.jpg,Women,2017,498A/406/34 Ipc And Sec 3/4 D.P. Act.,Sarmistha Das,5,0.7892,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0021-2017-1914-1-jpg,Women PSWOMEN-0021-2017-1914__1.jpg,,2017,,,2,0.7286,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0021-2018-3429-1-jpg,Women PSWOMEN-0021-2018-3429__1.jpg,Nscbi Airport,2018,419/420/465/468/471 Ipc And 12 P.P.Act,Gopal Dutta,4,0.9616,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0022-2017-1970-1-jpg,Women PSWOMEN-0022-2017-1970__1.jpg,Women,2017,341/323/354A/354B Ipc,Pobitra Sardar,6,0.7389,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0023-2017-2391-1-jpg,Women PSWOMEN-0023-2017-2391__1.jpg,Women,2017,498A/ 406/307/ 376/511/ 34 Ipc,Monalisha Dey Banerjee,4,0.8507,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0024-2017-5960-1-jpg,Women PSWOMEN-0024-2017-5960__1.jpg,Women,2017,498A/307/506/509/34 Ipc,Puja Kumari Shaw,5,0.8316,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0025-2017-3083-1-jpg,Women PSWOMEN-0025-2017-3083__1.jpg,Women,2017,341/323/354A/379/506(Ii)/509/34 Ipc,Disha Roy,4,0.8543,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0028-2017-4628-1-jpg,Women PSWOMEN-0028-2017-4628__1.jpg,Women,2017,,Swati Rustogi,6,0.7616,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0029-2017-5241-1-jpg,Women PSWOMEN-0029-2017-5241__1.jpg,,,,Juthi Chakrabarty,1,0.9375,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0030-2017-8528-1-jpg,Women PSWOMEN-0030-2017-8528__1.jpg,Women,2017,498A/406/34 Ipc,Tanumita Halder,4,0.8264,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0031-2017-1217-1-jpg,Women PSWOMEN-0031-2017-1217__1.jpg,Women,2017,195A/120B Ipc,Mita Sharma(Seth),4,0.8192,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0032-2017-1422-1-jpg,Women PSWOMEN-0032-2017-1422__1.jpg,Women,2017,,Kamaljit Kaur,7,0.6956,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0034-2017-4612-1-jpg,Women PSWOMEN-0034-2017-4612__1.jpg,Women,2017,,Panchali Mondal,5,0.8556,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0035-2017-1610-1-jpg,Women PSWOMEN-0035-2017-1610__1.jpg,Women,2017,498A/325/313/406/34 Ipc And Sec 3/4 Dp Act,Debjita Sen,6,0.7556,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0036-2017-4052-1-jpg,Women PSWOMEN-0036-2017-4052__1.jpg,Women,2017,498A/406/34 Ipc,Purnima Ghosh (De),6,0.8197,FIR_details.json,UNRESOLVED
+FIR-Women-PSWOMEN-0037-2017-4234-1-jpg,Women PSWOMEN-0037-2017-4234__1.jpg,Women,2017,,Sumita Bera,5,0.7688,FIR_details.json,UNRESOLVED

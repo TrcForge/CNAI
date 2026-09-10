@@ -1,0 +1,151 @@
+report_id,actor_id,person_id,report_type,phase,classification,summary,source_reliability,information_credibility,source
+INT-00001,32,P032,SURVEILLANCE_NOTE,Phase-3,SENSITIVE,Synthetic intelligence note concerning movement associated with the subject.,C,2,synthetic_intelligence
+INT-00002,6,P006,TIP_OFF,Phase-2,ROUTINE,Synthetic intelligence note concerning communication associated with the subject.,C,2,synthetic_intelligence
+INT-00003,58,P058,SURVEILLANCE_NOTE,Phase-1,SENSITIVE,Synthetic intelligence note concerning movement associated with the subject.,A,1,synthetic_intelligence
+INT-00004,70,P070,FIELD_REPORT,Phase-3,WATCH,Synthetic intelligence note concerning communication associated with the subject.,A,3,synthetic_intelligence
+INT-00005,103,P103,TIP_OFF,Phase-2,SENSITIVE,Synthetic intelligence note concerning communication associated with the subject.,A,3,synthetic_intelligence
+INT-00006,43,P043,SURVEILLANCE_NOTE,Phase-1,ROUTINE,Synthetic intelligence note concerning association associated with the subject.,A,2,synthetic_intelligence
+INT-00007,108,P108,ANALYST_NOTE,Phase-3,ROUTINE,Synthetic intelligence note concerning movement associated with the subject.,B,3,synthetic_intelligence
+INT-00008,93,P093,TIP_OFF,Phase-3,WATCH,Synthetic intelligence note concerning vehicle activity associated with the subject.,A,2,synthetic_intelligence
+INT-00009,70,P070,TIP_OFF,Phase-2,ROUTINE,Synthetic intelligence note concerning vehicle activity associated with the subject.,B,3,synthetic_intelligence
+INT-00010,11,P011,TIP_OFF,Phase-3,SENSITIVE,Synthetic intelligence note concerning meeting associated with the subject.,C,3,synthetic_intelligence
+INT-00011,83,P083,SURVEILLANCE_NOTE,Phase-1,WATCH,Synthetic intelligence note concerning financial activity associated with the subject.,A,2,synthetic_intelligence
+INT-00012,62,P062,ANALYST_NOTE,Phase-1,SENSITIVE,Synthetic intelligence note concerning association associated with the subject.,A,1,synthetic_intelligence
+INT-00013,97,P097,FIELD_REPORT,Phase-2,WATCH,Synthetic intelligence note concerning financial activity associated with the subject.,B,1,synthetic_intelligence
+INT-00014,62,P062,ANALYST_NOTE,Phase-1,WATCH,Synthetic intelligence note concerning association associated with the subject.,A,1,synthetic_intelligence
+INT-00015,82,P082,FIELD_REPORT,Phase-3,WATCH,Synthetic intelligence note concerning financial activity associated with the subject.,A,3,synthetic_intelligence
+INT-00016,9,P009,FIELD_REPORT,Phase-3,ROUTINE,Synthetic intelligence note concerning association associated with the subject.,C,3,synthetic_intelligence
+INT-00017,19,P019,TIP_OFF,Phase-3,ROUTINE,Synthetic intelligence note concerning vehicle activity associated with the subject.,C,2,synthetic_intelligence
+INT-00018,42,P042,FIELD_REPORT,Phase-3,SENSITIVE,Synthetic intelligence note concerning financial activity associated with the subject.,A,2,synthetic_intelligence
+INT-00019,23,P023,ANALYST_NOTE,Phase-2,ROUTINE,Synthetic intelligence note concerning movement associated with the subject.,A,3,synthetic_intelligence
+INT-00020,105,P105,SURVEILLANCE_NOTE,Phase-2,ROUTINE,Synthetic intelligence note concerning movement associated with the subject.,B,1,synthetic_intelligence
+INT-00021,11,P011,FIELD_REPORT,Phase-2,ROUTINE,Synthetic intelligence note concerning communication associated with the subject.,B,1,synthetic_intelligence
+INT-00022,103,P103,ANALYST_NOTE,Phase-2,WATCH,Synthetic intelligence note concerning association associated with the subject.,C,1,synthetic_intelligence
+INT-00023,104,P104,SURVEILLANCE_NOTE,Phase-1,WATCH,Synthetic intelligence note concerning movement associated with the subject.,C,2,synthetic_intelligence
+INT-00024,11,P011,ANALYST_NOTE,Phase-2,SENSITIVE,Synthetic intelligence note concerning meeting associated with the subject.,B,3,synthetic_intelligence
+INT-00025,82,P082,TIP_OFF,Phase-2,WATCH,Synthetic intelligence note concerning vehicle activity associated with the subject.,A,3,synthetic_intelligence
+INT-00026,33,P033,ANALYST_NOTE,Phase-2,ROUTINE,Synthetic intelligence note concerning association associated with the subject.,B,1,synthetic_intelligence
+INT-00027,75,P075,TIP_OFF,Phase-3,WATCH,Synthetic intelligence note concerning communication associated with the subject.,C,2,synthetic_intelligence
+INT-00028,6,P006,ANALYST_NOTE,Phase-1,ROUTINE,Synthetic intelligence note concerning movement associated with the subject.,B,3,synthetic_intelligence
+INT-00029,97,P097,FIELD_REPORT,Phase-2,ROUTINE,Synthetic intelligence note concerning communication associated with the subject.,A,3,synthetic_intelligence
+INT-00030,104,P104,SURVEILLANCE_NOTE,Phase-2,SENSITIVE,Synthetic intelligence note concerning association associated with the subject.,A,2,synthetic_intelligence
+INT-00031,35,P035,TIP_OFF,Phase-2,WATCH,Synthetic intelligence note concerning communication associated with the subject.,A,1,synthetic_intelligence
+INT-00032,41,P041,TIP_OFF,Phase-2,WATCH,Synthetic intelligence note concerning association associated with the subject.,C,3,synthetic_intelligence
+INT-00033,15,P015,ANALYST_NOTE,Phase-1,WATCH,Synthetic intelligence note concerning vehicle activity associated with the subject.,A,2,synthetic_intelligence
+INT-00034,26,P026,SURVEILLANCE_NOTE,Phase-2,ROUTINE,Synthetic intelligence note concerning association associated with the subject.,A,1,synthetic_intelligence
+INT-00035,8,P008,FIELD_REPORT,Phase-1,WATCH,Synthetic intelligence note concerning meeting associated with the subject.,C,3,synthetic_intelligence
+INT-00036,47,P047,FIELD_REPORT,Phase-1,ROUTINE,Synthetic intelligence note concerning movement associated with the subject.,A,2,synthetic_intelligence
+INT-00037,98,P098,FIELD_REPORT,Phase-3,ROUTINE,Synthetic intelligence note concerning communication associated with the subject.,A,2,synthetic_intelligence
+INT-00038,22,P022,TIP_OFF,Phase-3,SENSITIVE,Synthetic intelligence note concerning communication associated with the subject.,A,2,synthetic_intelligence
+INT-00039,76,P076,FIELD_REPORT,Phase-2,WATCH,Synthetic intelligence note concerning communication associated with the subject.,B,1,synthetic_intelligence
+INT-00040,41,P041,TIP_OFF,Phase-1,SENSITIVE,Synthetic intelligence note concerning vehicle activity associated with the subject.,B,3,synthetic_intelligence
+INT-00041,108,P108,ANALYST_NOTE,Phase-3,WATCH,Synthetic intelligence note concerning communication associated with the subject.,B,3,synthetic_intelligence
+INT-00042,20,P020,ANALYST_NOTE,Phase-3,ROUTINE,Synthetic intelligence note concerning vehicle activity associated with the subject.,C,1,synthetic_intelligence
+INT-00043,7,P007,FIELD_REPORT,Phase-2,SENSITIVE,Synthetic intelligence note concerning meeting associated with the subject.,C,2,synthetic_intelligence
+INT-00044,105,P105,SURVEILLANCE_NOTE,Phase-2,ROUTINE,Synthetic intelligence note concerning movement associated with the subject.,A,2,synthetic_intelligence
+INT-00045,39,P039,FIELD_REPORT,Phase-3,WATCH,Synthetic intelligence note concerning financial activity associated with the subject.,B,2,synthetic_intelligence
+INT-00046,79,P079,ANALYST_NOTE,Phase-3,WATCH,Synthetic intelligence note concerning association associated with the subject.,B,3,synthetic_intelligence
+INT-00047,49,P049,ANALYST_NOTE,Phase-3,WATCH,Synthetic intelligence note concerning meeting associated with the subject.,A,3,synthetic_intelligence
+INT-00048,8,P008,ANALYST_NOTE,Phase-2,WATCH,Synthetic intelligence note concerning movement associated with the subject.,B,2,synthetic_intelligence
+INT-00049,14,P014,ANALYST_NOTE,Phase-2,WATCH,Synthetic intelligence note concerning movement associated with the subject.,C,3,synthetic_intelligence
+INT-00050,26,P026,SURVEILLANCE_NOTE,Phase-3,ROUTINE,Synthetic intelligence note concerning communication associated with the subject.,C,1,synthetic_intelligence
+INT-00051,38,P038,ANALYST_NOTE,Phase-1,WATCH,Synthetic intelligence note concerning communication associated with the subject.,C,2,synthetic_intelligence
+INT-00052,108,P108,ANALYST_NOTE,Phase-1,ROUTINE,Synthetic intelligence note concerning association associated with the subject.,A,3,synthetic_intelligence
+INT-00053,4,P004,ANALYST_NOTE,Phase-1,SENSITIVE,Synthetic intelligence note concerning association associated with the subject.,A,3,synthetic_intelligence
+INT-00054,98,P098,FIELD_REPORT,Phase-3,SENSITIVE,Synthetic intelligence note concerning communication associated with the subject.,B,2,synthetic_intelligence
+INT-00055,29,P029,TIP_OFF,Phase-1,WATCH,Synthetic intelligence note concerning communication associated with the subject.,A,1,synthetic_intelligence
+INT-00056,99,P099,SURVEILLANCE_NOTE,Phase-1,SENSITIVE,Synthetic intelligence note concerning communication associated with the subject.,C,1,synthetic_intelligence
+INT-00057,95,P095,ANALYST_NOTE,Phase-2,SENSITIVE,Synthetic intelligence note concerning communication associated with the subject.,A,1,synthetic_intelligence
+INT-00058,30,P030,ANALYST_NOTE,Phase-3,SENSITIVE,Synthetic intelligence note concerning financial activity associated with the subject.,B,2,synthetic_intelligence
+INT-00059,36,P036,ANALYST_NOTE,Phase-2,ROUTINE,Synthetic intelligence note concerning financial activity associated with the subject.,C,3,synthetic_intelligence
+INT-00060,30,P030,SURVEILLANCE_NOTE,Phase-1,WATCH,Synthetic intelligence note concerning movement associated with the subject.,B,3,synthetic_intelligence
+INT-00061,18,P018,SURVEILLANCE_NOTE,Phase-3,ROUTINE,Synthetic intelligence note concerning vehicle activity associated with the subject.,C,1,synthetic_intelligence
+INT-00062,14,P014,SURVEILLANCE_NOTE,Phase-2,ROUTINE,Synthetic intelligence note concerning association associated with the subject.,B,1,synthetic_intelligence
+INT-00063,107,P107,TIP_OFF,Phase-2,WATCH,Synthetic intelligence note concerning communication associated with the subject.,A,2,synthetic_intelligence
+INT-00064,63,P063,TIP_OFF,Phase-3,ROUTINE,Synthetic intelligence note concerning movement associated with the subject.,A,3,synthetic_intelligence
+INT-00065,38,P038,FIELD_REPORT,Phase-2,ROUTINE,Synthetic intelligence note concerning communication associated with the subject.,C,2,synthetic_intelligence
+INT-00066,36,P036,TIP_OFF,Phase-3,WATCH,Synthetic intelligence note concerning association associated with the subject.,B,1,synthetic_intelligence
+INT-00067,103,P103,TIP_OFF,Phase-1,SENSITIVE,Synthetic intelligence note concerning communication associated with the subject.,C,1,synthetic_intelligence
+INT-00068,50,P050,TIP_OFF,Phase-1,WATCH,Synthetic intelligence note concerning movement associated with the subject.,A,3,synthetic_intelligence
+INT-00069,94,P094,SURVEILLANCE_NOTE,Phase-1,SENSITIVE,Synthetic intelligence note concerning financial activity associated with the subject.,C,1,synthetic_intelligence
+INT-00070,90,P090,FIELD_REPORT,Phase-2,ROUTINE,Synthetic intelligence note concerning meeting associated with the subject.,B,2,synthetic_intelligence
+INT-00071,78,P078,SURVEILLANCE_NOTE,Phase-1,SENSITIVE,Synthetic intelligence note concerning vehicle activity associated with the subject.,A,3,synthetic_intelligence
+INT-00072,44,P044,TIP_OFF,Phase-2,ROUTINE,Synthetic intelligence note concerning association associated with the subject.,A,2,synthetic_intelligence
+INT-00073,77,P077,SURVEILLANCE_NOTE,Phase-3,SENSITIVE,Synthetic intelligence note concerning financial activity associated with the subject.,B,3,synthetic_intelligence
+INT-00074,26,P026,FIELD_REPORT,Phase-1,SENSITIVE,Synthetic intelligence note concerning meeting associated with the subject.,C,3,synthetic_intelligence
+INT-00075,74,P074,SURVEILLANCE_NOTE,Phase-3,SENSITIVE,Synthetic intelligence note concerning communication associated with the subject.,B,1,synthetic_intelligence
+INT-00076,22,P022,ANALYST_NOTE,Phase-3,WATCH,Synthetic intelligence note concerning meeting associated with the subject.,B,3,synthetic_intelligence
+INT-00077,18,P018,ANALYST_NOTE,Phase-2,SENSITIVE,Synthetic intelligence note concerning association associated with the subject.,B,1,synthetic_intelligence
+INT-00078,84,P084,FIELD_REPORT,Phase-1,SENSITIVE,Synthetic intelligence note concerning meeting associated with the subject.,C,1,synthetic_intelligence
+INT-00079,50,P050,FIELD_REPORT,Phase-3,WATCH,Synthetic intelligence note concerning vehicle activity associated with the subject.,B,2,synthetic_intelligence
+INT-00080,92,P092,SURVEILLANCE_NOTE,Phase-1,ROUTINE,Synthetic intelligence note concerning communication associated with the subject.,B,2,synthetic_intelligence
+INT-00081,33,P033,SURVEILLANCE_NOTE,Phase-3,WATCH,Synthetic intelligence note concerning communication associated with the subject.,A,2,synthetic_intelligence
+INT-00082,100,P100,ANALYST_NOTE,Phase-1,SENSITIVE,Synthetic intelligence note concerning movement associated with the subject.,C,2,synthetic_intelligence
+INT-00083,102,P102,FIELD_REPORT,Phase-2,SENSITIVE,Synthetic intelligence note concerning financial activity associated with the subject.,A,2,synthetic_intelligence
+INT-00084,8,P008,ANALYST_NOTE,Phase-3,SENSITIVE,Synthetic intelligence note concerning movement associated with the subject.,C,3,synthetic_intelligence
+INT-00085,1,P001,ANALYST_NOTE,Phase-2,WATCH,Synthetic intelligence note concerning meeting associated with the subject.,C,3,synthetic_intelligence
+INT-00086,89,P089,TIP_OFF,Phase-3,WATCH,Synthetic intelligence note concerning communication associated with the subject.,C,2,synthetic_intelligence
+INT-00087,105,P105,TIP_OFF,Phase-2,ROUTINE,Synthetic intelligence note concerning communication associated with the subject.,A,3,synthetic_intelligence
+INT-00088,51,P051,TIP_OFF,Phase-1,WATCH,Synthetic intelligence note concerning meeting associated with the subject.,C,3,synthetic_intelligence
+INT-00089,75,P075,SURVEILLANCE_NOTE,Phase-1,ROUTINE,Synthetic intelligence note concerning vehicle activity associated with the subject.,C,2,synthetic_intelligence
+INT-00090,41,P041,TIP_OFF,Phase-1,WATCH,Synthetic intelligence note concerning financial activity associated with the subject.,C,1,synthetic_intelligence
+INT-00091,38,P038,FIELD_REPORT,Phase-2,ROUTINE,Synthetic intelligence note concerning association associated with the subject.,B,1,synthetic_intelligence
+INT-00092,50,P050,SURVEILLANCE_NOTE,Phase-3,SENSITIVE,Synthetic intelligence note concerning movement associated with the subject.,C,1,synthetic_intelligence
+INT-00093,98,P098,ANALYST_NOTE,Phase-3,SENSITIVE,Synthetic intelligence note concerning association associated with the subject.,C,3,synthetic_intelligence
+INT-00094,81,P081,TIP_OFF,Phase-1,WATCH,Synthetic intelligence note concerning vehicle activity associated with the subject.,A,2,synthetic_intelligence
+INT-00095,17,P017,FIELD_REPORT,Phase-3,ROUTINE,Synthetic intelligence note concerning association associated with the subject.,C,2,synthetic_intelligence
+INT-00096,27,P027,SURVEILLANCE_NOTE,Phase-3,SENSITIVE,Synthetic intelligence note concerning meeting associated with the subject.,B,1,synthetic_intelligence
+INT-00097,59,P059,FIELD_REPORT,Phase-1,WATCH,Synthetic intelligence note concerning meeting associated with the subject.,C,3,synthetic_intelligence
+INT-00098,12,P012,TIP_OFF,Phase-2,SENSITIVE,Synthetic intelligence note concerning vehicle activity associated with the subject.,C,3,synthetic_intelligence
+INT-00099,108,P108,FIELD_REPORT,Phase-1,ROUTINE,Synthetic intelligence note concerning financial activity associated with the subject.,A,3,synthetic_intelligence
+INT-00100,83,P083,TIP_OFF,Phase-2,SENSITIVE,Synthetic intelligence note concerning communication associated with the subject.,A,2,synthetic_intelligence
+INT-00101,85,P085,ANALYST_NOTE,Phase-3,ROUTINE,Synthetic intelligence note concerning financial activity associated with the subject.,C,1,synthetic_intelligence
+INT-00102,8,P008,FIELD_REPORT,Phase-1,WATCH,Synthetic intelligence note concerning communication associated with the subject.,B,2,synthetic_intelligence
+INT-00103,44,P044,SURVEILLANCE_NOTE,Phase-2,ROUTINE,Synthetic intelligence note concerning meeting associated with the subject.,A,1,synthetic_intelligence
+INT-00104,6,P006,FIELD_REPORT,Phase-1,ROUTINE,Synthetic intelligence note concerning movement associated with the subject.,A,2,synthetic_intelligence
+INT-00105,30,P030,ANALYST_NOTE,Phase-1,ROUTINE,Synthetic intelligence note concerning meeting associated with the subject.,A,2,synthetic_intelligence
+INT-00106,61,P061,FIELD_REPORT,Phase-1,ROUTINE,Synthetic intelligence note concerning financial activity associated with the subject.,A,1,synthetic_intelligence
+INT-00107,48,P048,ANALYST_NOTE,Phase-2,ROUTINE,Synthetic intelligence note concerning communication associated with the subject.,B,3,synthetic_intelligence
+INT-00108,29,P029,FIELD_REPORT,Phase-3,ROUTINE,Synthetic intelligence note concerning communication associated with the subject.,C,3,synthetic_intelligence
+INT-00109,3,P003,SURVEILLANCE_NOTE,Phase-1,WATCH,Synthetic intelligence note concerning financial activity associated with the subject.,B,3,synthetic_intelligence
+INT-00110,32,P032,FIELD_REPORT,Phase-3,SENSITIVE,Synthetic intelligence note concerning movement associated with the subject.,B,2,synthetic_intelligence
+INT-00111,25,P025,TIP_OFF,Phase-3,SENSITIVE,Synthetic intelligence note concerning financial activity associated with the subject.,A,3,synthetic_intelligence
+INT-00112,101,P101,ANALYST_NOTE,Phase-3,ROUTINE,Synthetic intelligence note concerning financial activity associated with the subject.,A,3,synthetic_intelligence
+INT-00113,98,P098,ANALYST_NOTE,Phase-3,WATCH,Synthetic intelligence note concerning association associated with the subject.,A,3,synthetic_intelligence
+INT-00114,100,P100,SURVEILLANCE_NOTE,Phase-2,SENSITIVE,Synthetic intelligence note concerning meeting associated with the subject.,A,1,synthetic_intelligence
+INT-00115,76,P076,FIELD_REPORT,Phase-1,WATCH,Synthetic intelligence note concerning movement associated with the subject.,C,3,synthetic_intelligence
+INT-00116,72,P072,FIELD_REPORT,Phase-3,WATCH,Synthetic intelligence note concerning meeting associated with the subject.,A,2,synthetic_intelligence
+INT-00117,20,P020,SURVEILLANCE_NOTE,Phase-2,WATCH,Synthetic intelligence note concerning association associated with the subject.,A,3,synthetic_intelligence
+INT-00118,85,P085,FIELD_REPORT,Phase-1,SENSITIVE,Synthetic intelligence note concerning meeting associated with the subject.,C,3,synthetic_intelligence
+INT-00119,55,P055,FIELD_REPORT,Phase-3,SENSITIVE,Synthetic intelligence note concerning meeting associated with the subject.,A,3,synthetic_intelligence
+INT-00120,104,P104,ANALYST_NOTE,Phase-3,ROUTINE,Synthetic intelligence note concerning meeting associated with the subject.,C,3,synthetic_intelligence
+INT-00121,40,P040,FIELD_REPORT,Phase-2,SENSITIVE,Synthetic intelligence note concerning association associated with the subject.,A,2,synthetic_intelligence
+INT-00122,70,P070,TIP_OFF,Phase-3,WATCH,Synthetic intelligence note concerning association associated with the subject.,B,3,synthetic_intelligence
+INT-00123,32,P032,SURVEILLANCE_NOTE,Phase-2,SENSITIVE,Synthetic intelligence note concerning movement associated with the subject.,B,3,synthetic_intelligence
+INT-00124,99,P099,FIELD_REPORT,Phase-3,WATCH,Synthetic intelligence note concerning association associated with the subject.,C,1,synthetic_intelligence
+INT-00125,96,P096,ANALYST_NOTE,Phase-2,SENSITIVE,Synthetic intelligence note concerning association associated with the subject.,A,2,synthetic_intelligence
+INT-00126,63,P063,FIELD_REPORT,Phase-3,WATCH,Synthetic intelligence note concerning vehicle activity associated with the subject.,A,2,synthetic_intelligence
+INT-00127,31,P031,TIP_OFF,Phase-2,SENSITIVE,Synthetic intelligence note concerning financial activity associated with the subject.,A,3,synthetic_intelligence
+INT-00128,5,P005,TIP_OFF,Phase-2,ROUTINE,Synthetic intelligence note concerning movement associated with the subject.,B,1,synthetic_intelligence
+INT-00129,17,P017,TIP_OFF,Phase-2,WATCH,Synthetic intelligence note concerning financial activity associated with the subject.,C,2,synthetic_intelligence
+INT-00130,91,P091,FIELD_REPORT,Phase-2,WATCH,Synthetic intelligence note concerning vehicle activity associated with the subject.,A,1,synthetic_intelligence
+INT-00131,25,P025,TIP_OFF,Phase-1,WATCH,Synthetic intelligence note concerning financial activity associated with the subject.,C,2,synthetic_intelligence
+INT-00132,109,P109,TIP_OFF,Phase-1,ROUTINE,Synthetic intelligence note concerning meeting associated with the subject.,B,3,synthetic_intelligence
+INT-00133,91,P091,TIP_OFF,Phase-1,WATCH,Synthetic intelligence note concerning association associated with the subject.,B,1,synthetic_intelligence
+INT-00134,70,P070,FIELD_REPORT,Phase-3,ROUTINE,Synthetic intelligence note concerning movement associated with the subject.,B,2,synthetic_intelligence
+INT-00135,50,P050,ANALYST_NOTE,Phase-2,ROUTINE,Synthetic intelligence note concerning vehicle activity associated with the subject.,B,3,synthetic_intelligence
+INT-00136,26,P026,ANALYST_NOTE,Phase-1,ROUTINE,Synthetic intelligence note concerning financial activity associated with the subject.,A,1,synthetic_intelligence
+INT-00137,53,P053,FIELD_REPORT,Phase-2,WATCH,Synthetic intelligence note concerning vehicle activity associated with the subject.,A,3,synthetic_intelligence
+INT-00138,85,P085,TIP_OFF,Phase-2,ROUTINE,Synthetic intelligence note concerning communication associated with the subject.,B,3,synthetic_intelligence
+INT-00139,45,P045,ANALYST_NOTE,Phase-1,ROUTINE,Synthetic intelligence note concerning financial activity associated with the subject.,A,2,synthetic_intelligence
+INT-00140,81,P081,ANALYST_NOTE,Phase-2,WATCH,Synthetic intelligence note concerning meeting associated with the subject.,C,2,synthetic_intelligence
+INT-00141,51,P051,FIELD_REPORT,Phase-2,WATCH,Synthetic intelligence note concerning communication associated with the subject.,B,1,synthetic_intelligence
+INT-00142,41,P041,TIP_OFF,Phase-2,SENSITIVE,Synthetic intelligence note concerning communication associated with the subject.,B,2,synthetic_intelligence
+INT-00143,17,P017,FIELD_REPORT,Phase-1,SENSITIVE,Synthetic intelligence note concerning meeting associated with the subject.,A,2,synthetic_intelligence
+INT-00144,70,P070,FIELD_REPORT,Phase-1,WATCH,Synthetic intelligence note concerning association associated with the subject.,B,3,synthetic_intelligence
+INT-00145,49,P049,SURVEILLANCE_NOTE,Phase-1,SENSITIVE,Synthetic intelligence note concerning meeting associated with the subject.,C,1,synthetic_intelligence
+INT-00146,88,P088,SURVEILLANCE_NOTE,Phase-1,ROUTINE,Synthetic intelligence note concerning communication associated with the subject.,A,3,synthetic_intelligence
+INT-00147,64,P064,TIP_OFF,Phase-1,WATCH,Synthetic intelligence note concerning movement associated with the subject.,A,1,synthetic_intelligence
+INT-00148,66,P066,TIP_OFF,Phase-3,ROUTINE,Synthetic intelligence note concerning movement associated with the subject.,C,3,synthetic_intelligence
+INT-00149,52,P052,TIP_OFF,Phase-2,SENSITIVE,Synthetic intelligence note concerning association associated with the subject.,A,3,synthetic_intelligence
+INT-00150,53,P053,FIELD_REPORT,Phase-1,ROUTINE,Synthetic intelligence note concerning meeting associated with the subject.,C,1,synthetic_intelligence

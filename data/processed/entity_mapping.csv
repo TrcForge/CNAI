@@ -1,0 +1,158 @@
+mapping_id,source,source_record_id,source_entity_type,source_value,canonical_entity_id,canonical_entity_type,match_method,confidence,status
+MAP-P-001,persons_synthetic,1,Person,Aarav Sharma1,P001,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-002,persons_synthetic,2,Person,Arjun Mehta2,P002,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-003,persons_synthetic,3,Person,Rohan Verma3,P003,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-004,persons_synthetic,4,Person,Vikram Singh4,P004,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-005,persons_synthetic,5,Person,Rahul Patel5,P005,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-006,persons_synthetic,6,Person,Aditya Rao6,P006,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-007,persons_synthetic,7,Person,Karan Gupta7,P007,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-008,persons_synthetic,8,Person,Manish Kumar8,P008,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-009,persons_synthetic,9,Person,Sahil Khan9,P009,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-010,persons_synthetic,10,Person,Nikhil Joshi10,P010,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-011,persons_synthetic,11,Person,Amit Shah11,P011,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-012,persons_synthetic,12,Person,Raj Malhotra12,P012,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-013,persons_synthetic,13,Person,Aarav Sharma13,P013,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-014,persons_synthetic,14,Person,Arjun Mehta14,P014,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-015,persons_synthetic,15,Person,Rohan Verma15,P015,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-016,persons_synthetic,16,Person,Vikram Singh16,P016,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-017,persons_synthetic,17,Person,Rahul Patel17,P017,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-018,persons_synthetic,18,Person,Aditya Rao18,P018,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-019,persons_synthetic,19,Person,Karan Gupta19,P019,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-020,persons_synthetic,20,Person,Manish Kumar20,P020,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-021,persons_synthetic,21,Person,Sahil Khan21,P021,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-022,persons_synthetic,22,Person,Nikhil Joshi22,P022,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-023,persons_synthetic,23,Person,Amit Shah23,P023,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-024,persons_synthetic,24,Person,Raj Malhotra24,P024,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-025,persons_synthetic,25,Person,Aarav Sharma25,P025,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-026,persons_synthetic,26,Person,Arjun Mehta26,P026,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-027,persons_synthetic,27,Person,Rohan Verma27,P027,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-028,persons_synthetic,28,Person,Vikram Singh28,P028,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-029,persons_synthetic,29,Person,Rahul Patel29,P029,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-030,persons_synthetic,30,Person,Aditya Rao30,P030,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-031,persons_synthetic,31,Person,Karan Gupta31,P031,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-032,persons_synthetic,32,Person,Manish Kumar32,P032,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-033,persons_synthetic,33,Person,Sahil Khan33,P033,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-034,persons_synthetic,34,Person,Nikhil Joshi34,P034,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-035,persons_synthetic,35,Person,Amit Shah35,P035,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-036,persons_synthetic,36,Person,Raj Malhotra36,P036,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-037,persons_synthetic,37,Person,Aarav Sharma37,P037,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-038,persons_synthetic,38,Person,Arjun Mehta38,P038,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-039,persons_synthetic,39,Person,Rohan Verma39,P039,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-040,persons_synthetic,40,Person,Vikram Singh40,P040,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-041,persons_synthetic,41,Person,Rahul Patel41,P041,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-042,persons_synthetic,42,Person,Aditya Rao42,P042,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-043,persons_synthetic,43,Person,Karan Gupta43,P043,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-044,persons_synthetic,44,Person,Manish Kumar44,P044,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-045,persons_synthetic,45,Person,Sahil Khan45,P045,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-046,persons_synthetic,46,Person,Nikhil Joshi46,P046,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-047,persons_synthetic,47,Person,Amit Shah47,P047,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-048,persons_synthetic,48,Person,Raj Malhotra48,P048,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-049,persons_synthetic,49,Person,Aarav Sharma49,P049,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-050,persons_synthetic,50,Person,Arjun Mehta50,P050,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-051,persons_synthetic,51,Person,Rohan Verma51,P051,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-052,persons_synthetic,52,Person,Vikram Singh52,P052,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-053,persons_synthetic,53,Person,Rahul Patel53,P053,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-054,persons_synthetic,54,Person,Aditya Rao54,P054,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-055,persons_synthetic,55,Person,Karan Gupta55,P055,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-056,persons_synthetic,56,Person,Manish Kumar56,P056,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-058,persons_synthetic,58,Person,Sahil Khan57,P058,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-059,persons_synthetic,59,Person,Nikhil Joshi58,P059,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-061,persons_synthetic,61,Person,Amit Shah59,P061,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-062,persons_synthetic,62,Person,Raj Malhotra60,P062,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-063,persons_synthetic,63,Person,Aarav Sharma61,P063,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-064,persons_synthetic,64,Person,Arjun Mehta62,P064,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-065,persons_synthetic,65,Person,Rohan Verma63,P065,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-066,persons_synthetic,66,Person,Vikram Singh64,P066,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-067,persons_synthetic,67,Person,Rahul Patel65,P067,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-068,persons_synthetic,68,Person,Aditya Rao66,P068,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-069,persons_synthetic,69,Person,Karan Gupta67,P069,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-070,persons_synthetic,70,Person,Manish Kumar68,P070,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-071,persons_synthetic,71,Person,Sahil Khan69,P071,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-072,persons_synthetic,72,Person,Nikhil Joshi70,P072,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-073,persons_synthetic,73,Person,Amit Shah71,P073,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-074,persons_synthetic,74,Person,Raj Malhotra72,P074,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-075,persons_synthetic,75,Person,Aarav Sharma73,P075,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-076,persons_synthetic,76,Person,Arjun Mehta74,P076,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-077,persons_synthetic,77,Person,Rohan Verma75,P077,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-078,persons_synthetic,78,Person,Vikram Singh76,P078,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-079,persons_synthetic,79,Person,Rahul Patel77,P079,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-080,persons_synthetic,80,Person,Aditya Rao78,P080,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-081,persons_synthetic,81,Person,Karan Gupta79,P081,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-082,persons_synthetic,82,Person,Manish Kumar80,P082,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-083,persons_synthetic,83,Person,Sahil Khan81,P083,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-084,persons_synthetic,84,Person,Nikhil Joshi82,P084,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-085,persons_synthetic,85,Person,Amit Shah83,P085,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-086,persons_synthetic,86,Person,Raj Malhotra84,P086,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-087,persons_synthetic,87,Person,Aarav Sharma85,P087,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-088,persons_synthetic,88,Person,Arjun Mehta86,P088,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-089,persons_synthetic,89,Person,Rohan Verma87,P089,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-090,persons_synthetic,90,Person,Vikram Singh88,P090,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-091,persons_synthetic,91,Person,Rahul Patel89,P091,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-092,persons_synthetic,92,Person,Aditya Rao90,P092,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-093,persons_synthetic,93,Person,Karan Gupta91,P093,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-094,persons_synthetic,94,Person,Manish Kumar92,P094,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-095,persons_synthetic,95,Person,Sahil Khan93,P095,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-096,persons_synthetic,96,Person,Nikhil Joshi94,P096,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-097,persons_synthetic,97,Person,Amit Shah95,P097,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-098,persons_synthetic,98,Person,Raj Malhotra96,P098,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-099,persons_synthetic,99,Person,Aarav Sharma97,P099,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-100,persons_synthetic,100,Person,Arjun Mehta98,P100,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-101,persons_synthetic,101,Person,Rohan Verma99,P101,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-102,persons_synthetic,102,Person,Vikram Singh100,P102,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-103,persons_synthetic,103,Person,Rahul Patel101,P103,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-104,persons_synthetic,104,Person,Aditya Rao102,P104,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-105,persons_synthetic,105,Person,Karan Gupta103,P105,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-106,persons_synthetic,106,Person,Manish Kumar104,P106,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-107,persons_synthetic,107,Person,Sahil Khan105,P107,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-108,persons_synthetic,108,Person,Nikhil Joshi106,P108,Person,PRIMARY_KEY,1.0,STRONG
+MAP-P-109,persons_synthetic,109,Person,Amit Shah107,P109,Person,PRIMARY_KEY,1.0,STRONG
+MAP-FIR-0004-2017-2711-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0004-2017-2711-1-jpg,Person,Si Sahabuddin Mondal,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0004-2018-3503-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0004-2018-3503-1-jpg,Person,Monodip Das Gupta,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0005-2017-3336-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0005-2017-3336-1-jpg,Person,Sri Indranil Roy,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0005-2018-1983-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0005-2018-1983-1-jpg,Person,Rubina Laskar,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0006-2017-3301-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0006-2017-3301-1-jpg,Person,,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0006-2018-1899-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0006-2018-1899-1-jpg,Person,Nasima Khatun,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0007-2017-3336-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0007-2017-3336-1-jpg,Person,Susmita Ghosh,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0007-2018-1932-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0007-2018-1932-1-jpg,Person,Dipankar Sardar,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0008-2017-3243-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0008-2017-3243-1-jpg,Person,Bivash Kumar Jha,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0008-2018-2110-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0008-2018-2110-1-jpg,Person,Shibashis Das,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0009-2017-3638-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0009-2017-3638-1-jpg,Person,Minoti Biswas,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0009-2018-3628-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0009-2018-3628-1-jpg,Person,Chiranjib Bhattacharjee,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0010-2017-3678-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0010-2017-3678-1-jpg,Person,Si Sahabuddin Mondal,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0010-2018-3706-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0010-2018-3706-1-jpg,Person,Sudip Das,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0011-2017-4014-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0011-2017-4014-1-jpg,Person,Prabbajika Dayamata,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0011-2018-3453-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0011-2018-3453-1-jpg,Person,Sahabuddin Mondal,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0012-2017-4052-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0012-2017-4052-1-jpg,Person,Souvik Chakraborty,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0012-2018-3495-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0012-2018-3495-1-jpg,Person,Biswajit Ghosh,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0013-2017-4063-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0013-2017-4063-1-jpg,Person,Souvik Chakraborty,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0013-2018-3843-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0013-2018-3843-1-jpg,Person,Azizul Haque Tarafdar,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0014-2017-4221-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0014-2017-4221-1-jpg,Person,Biswajit Halder,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0014-2018-4861-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0014-2018-4861-1-jpg,Person,Tarkeswar Mahato,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0015-2017-4215-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0015-2017-4215-1-jpg,Person,Souvik Chakraborty,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0015-2018-5219-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0015-2018-5219-1-jpg,Person,Koyel Das,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0016-2017-4225-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0016-2017-4225-1-jpg,Person,Souvik Chakraborty,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0016-2018-5562-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0016-2018-5562-1-jpg,Person,Sahabuddin Mondal,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0017-2017-4472-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0017-2017-4472-1-jpg,Person,Sri Souvik Chakraborty,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0017-2018-6685-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0017-2018-6685-1-jpg,Person,Debdas Roy Chowdhury,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0018-2017-1390-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0018-2017-1390-1-jpg,Person,Haran Ul Rashid,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0018-2018-9649-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0018-2018-9649-1-jpg,Person,,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0019-2017-4398-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0019-2017-4398-1-jpg,Person,Sri Deepak Kumar Kantilal,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0019-2018-1020-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0019-2018-1020-1-jpg,Person,Ashma Khatoon,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0020-2017-4612-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0020-2017-4612-1-jpg,Person,Si Sahabuddin Mondal,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0020-2018-9535-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0020-2018-9535-1-jpg,Person,Bijon Kumar Das,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0021-2017-4783-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0021-2017-4783-1-jpg,Person,Abhijit Saha,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0021-2018-2312-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0021-2018-2312-1-jpg,Person,Tutun Podder,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0022-2017-4797-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0022-2017-4797-1-jpg,Person,Sikha Das,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0022-2018-2306-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0022-2018-2306-1-jpg,Person,Arindam Mukherjee,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0023-2018-2380-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0023-2018-2380-1-jpg,Person,Abid Ali,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0024-2017-5230-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0024-2017-5230-1-jpg,Person,Birupakshya Sanyal,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0024-2018-2372-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0024-2018-2372-1-jpg,Person,Dilip Ghosh,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0025-2017-5144-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0025-2017-5144-1-jpg,Person,Bijoy Saha,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0026-2017-5762-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0026-2017-5762-1-jpg,Person,Saraswati Das,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0026-2018-2718-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0026-2018-2718-1-jpg,Person,Smt Nita De,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0027-2017-4310-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0027-2017-4310-1-jpg,Person,Raghav Behal Proprietor Of Smp Traders,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0027-2018-3288-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0027-2018-3288-1-jpg,Person,Puja Mahali,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0028-2017-3873-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0028-2017-3873-1-jpg,Person,Tarsem Singh,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0028-2018-3687-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0028-2018-3687-1-jpg,Person,Salma Begam,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0029-2017-4006-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0029-2017-4006-1-jpg,Person,Sanjoy Singha Roy,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
+MAP-FIR-0029-2018-3721-1-jpg,FIR_details.json,FIR-Airport-PSAIRPORT-0029-2018-3721-1-jpg,Person,Sikander Chowdhury,,Person,NOT_AUTO_MATCHED,0.0,UNRESOLVED
