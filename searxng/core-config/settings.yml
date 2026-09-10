@@ -1,0 +1,14 @@
+﻿use_default_settings:
+  engines:
+    remove:
+      - radio browser
+
+general:
+  debug: false
+  instance_name: "CNAI SearXNG"
+
+search:
+  safe_search: 1
+  formats:
+    - html
+    - json

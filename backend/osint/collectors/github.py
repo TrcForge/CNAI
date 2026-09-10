@@ -1,16 +1,16 @@
+from typing import Any
+
 import httpx
 
 from backend.osint.collectors.base import OSINTCollector
 
 
 class GitHubCollector(OSINTCollector):
-
     name = "github"
 
     BASE_URL = "https://api.github.com"
 
-    def search(self, query: str) -> list[dict]:
-
+    def search(self, query: str) -> list[dict[str, Any]]:
         url = f"{self.BASE_URL}/search/users"
 
         params = {
@@ -37,17 +37,31 @@ class GitHubCollector(OSINTCollector):
 
         for user in data.get("items", []):
 
-            findings.append({
-                "finding_type": "github_account",
-                "value": user.get("login"),
-                "source": "github",
-                "source_url": user.get("html_url"),
-                "confidence": 0.50,
-                "metadata": {
-                    "github_id": user.get("id"),
-                    "avatar_url": user.get("avatar_url"),
-                    "profile_url": user.get("html_url")
+            login = user.get("login")
+
+            if not login:
+                continue
+
+            findings.append(
+                {
+                    "finding_type": "profile",
+
+                    "platform": "github",
+
+                    "value": login,
+
+                    "source": "github",
+
+                    "source_url": user.get("html_url"),
+
+                    "confidence": 0.50,
+
+                    "metadata": {
+                        "github_id": user.get("id"),
+                        "avatar_url": user.get("avatar_url"),
+                        "profile_url": user.get("html_url")
+                    }
                 }
-            })
+            )
 
         return findings

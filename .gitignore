@@ -1,37 +1,46 @@
 # Python
-.venv/
 __pycache__/
 *.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
 
 # Environment / secrets
 .env
-*.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+dist/
+build/
+.vite/
 
 # IDE
 .vscode/
 .idea/
 
-# Logs
-*.log
-logs/
-
 # OS
 .DS_Store
 Thumbs.db
 
-# Test / cache
+# Logs
+*.log
+
+# Python cache
 .pytest_cache/
 .mypy_cache/
-
-# Sensitive evidence
-evidence/
-uploads/
-private_data/
 
 # Temporary files
 *.tmp
 *.temp
 
-# Database
+# Local databases
 *.db
 *.sqlite
+*.sqlite3
+
+# Generated ZIPs
+*.zip

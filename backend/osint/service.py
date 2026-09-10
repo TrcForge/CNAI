@@ -1,14 +1,23 @@
-from datetime import datetime, timezone
-
-from backend.osint.schemas import (
-    OSINTFinding,
-    OSINTSearchRequest,
-    OSINTSearchResponse,
-)
+from backend.osint.collector_manager import OSINTCollectorManager
+from backend.osint.intelligence import analyze_findings
+from backend.osint.query_generator import generate_queries
 from backend.osint.resolution import (
     calculate_name_similarity,
     mobile_matches,
 )
+from backend.osint.schemas import (
+    EntityMatch,
+    OSINTSearchRequest,
+    OSINTSearchResponse,
+)
+
+
+# -------------------------------------------------------------------
+# DEMO ENTITIES
+# -------------------------------------------------------------------
+# Temporary entities for testing entity resolution.
+# Later these will come from Neo4j / the main entity database.
+# -------------------------------------------------------------------
 
 DEMO_ENTITIES = [
     {
@@ -29,133 +38,174 @@ DEMO_ENTITIES = [
 ]
 
 
-DEMO_OSINT_DATA = [
-    {
-        "name": "Rahul Sharma",
-        "mobile": "9999999999",
-        "finding_type": "social_account",
-        "value": "@rahul_demo",
-        "source": "public_osint_demo",
-        "confidence": 0.82,
-    },
-    {
-        "name": "Rahul Sharma",
-        "mobile": "9999999999",
-        "finding_type": "organization",
-        "value": "Demo Technologies",
-        "source": "public_osint_demo",
-        "confidence": 0.76,
-    },
-    {
-        "name": "Rahul Sharma",
-        "mobile": "9999999999",
-        "finding_type": "public_location",
-        "value": "Ahmedabad",
-        "source": "public_osint_demo",
-        "confidence": 0.71,
-    },
-]
+# -------------------------------------------------------------------
+# ENTITY RESOLUTION
+# -------------------------------------------------------------------
 
-
-def search_osint(request: OSINTSearchRequest):
-
-    if not request.name and not request.mobile:
-        return OSINTSearchResponse(
-            query_name=request.name,
-            query_mobile=request.mobile,
-            findings=[]
-        )
-
-    findings = []
-
-    for index, record in enumerate(DEMO_OSINT_DATA, start=1):
-
-        name_match = (
-            request.name
-            and record["name"].lower()
-            == request.name.lower()
-        )
-
-        mobile_match = (
-            request.mobile
-            and record["mobile"]
-            == request.mobile
-        )
-
-        if name_match or mobile_match:
-
-            findings.append(
-                OSINTFinding(
-                    finding_id=f"OSINT-{index:03d}",
-                    entity_id=None,
-                    finding_type=record["finding_type"],
-                    value=record["value"],
-                    source=record["source"],
-                    confidence=record["confidence"],
-                    verification_status="unverified",
-                    observed_at=datetime.now(timezone.utc),
-                    metadata={
-                        "matched_by": (
-                            "name"
-                            if name_match
-                            else "mobile"
-                        )
-                    }
-                )
-            )
-
-    return OSINTSearchResponse(
-    query_name=request.name,
-    query_mobile=request.mobile,
-    findings=findings,
-    potential_entity_matches=resolve_entities(request)
-)
-
-def resolve_entities(request: OSINTSearchRequest):
+def resolve_entities(
+    request: OSINTSearchRequest,
+) -> list[EntityMatch]:
 
     matches = []
 
     for entity in DEMO_ENTITIES:
 
-        reasons = []
-
         name_score = 0.0
 
+        # Compare names when a name was supplied.
         if request.name:
 
             name_score = calculate_name_similarity(
                 request.name,
-                entity["name"]
+                entity["name"],
             )
 
-            if name_score >= 0.80:
-                reasons.append(
-                    f"name similarity: {name_score:.2f}"
-                )
+        mobile_match = False
 
+        # Compare mobile numbers when supplied.
         if request.mobile:
 
-            if mobile_matches(
+            mobile_match = mobile_matches(
                 request.mobile,
-                entity["mobile"]
-            ):
-                reasons.append("mobile number match")
+                entity["mobile"],
+            )
 
-        if not reasons:
+        # -----------------------------------------------------------
+        # Exact mobile match
+        # -----------------------------------------------------------
+
+        if mobile_match:
+
+            confidence = 1.0
+
+            reason = (
+                "Mobile number matches exactly."
+            )
+
+        # -----------------------------------------------------------
+        # Strong name similarity
+        # -----------------------------------------------------------
+
+        elif name_score >= 0.80:
+
+            confidence = name_score
+
+            reason = (
+                "High name similarity; "
+                "investigator verification required."
+            )
+
+        # -----------------------------------------------------------
+        # Moderate name similarity
+        # -----------------------------------------------------------
+
+        elif name_score >= 0.60:
+
+            confidence = name_score
+
+            reason = (
+                "Moderate name similarity; "
+                "manual verification required."
+            )
+
+        else:
+
             continue
 
-        score = name_score
-
-        if "mobile number match" in reasons:
-            score = max(score, 1.0)
-
         matches.append(
-            {
-                "entity_id": entity["entity_id"],
-                "similarity_score": round(score, 2),
-                "match_reasons": reasons,
-                "verification_status": "review_required",
-            }
+            EntityMatch(
+                entity_id=entity["entity_id"],
+                matched_name=entity["name"],
+                name_similarity=round(
+                    name_score,
+                    2,
+                ),
+                mobile_match=mobile_match,
+                confidence=round(
+                    confidence,
+                    2,
+                ),
+                reason=reason,
+                verification_status="review_required",
+            )
         )
 
     return matches
+
+
+# -------------------------------------------------------------------
+# MAIN OSINT SEARCH SERVICE
+# -------------------------------------------------------------------
+
+def search_osint(
+    request: OSINTSearchRequest,
+) -> OSINTSearchResponse:
+
+    # ---------------------------------------------------------------
+    # 1. Generate search queries
+    # ---------------------------------------------------------------
+
+    queries = generate_queries(
+        request
+    )
+
+    # ---------------------------------------------------------------
+    # 2. Run all OSINT collectors
+    #
+    # Current collectors:
+    #   - GitHub API
+    #   - SearXNG public web search
+    #
+    # CollectorManager also performs:
+    #   - normalization
+    #   - deduplication
+    # ---------------------------------------------------------------
+
+    collector_manager = (
+        OSINTCollectorManager()
+    )
+
+    findings = collector_manager.search(
+        queries
+    )
+
+    # ---------------------------------------------------------------
+    # 3. Resolve possible matches against known entities
+    # ---------------------------------------------------------------
+
+    entity_matches = resolve_entities(
+        request
+    )
+
+    # ---------------------------------------------------------------
+    # 4. Analyze collected OSINT findings
+    #
+    # This currently uses our prototype intelligence
+    # indicator layer.
+    #
+    # Later this can be connected to the team's
+    # ML/NLP/vectorization module.
+    # ---------------------------------------------------------------
+
+    intelligence_results = analyze_findings(
+        findings
+    )
+
+    # ---------------------------------------------------------------
+    # 5. Return unified OSINT response
+    # ---------------------------------------------------------------
+
+    return OSINTSearchResponse(
+        query_name=request.name,
+        query_mobile=request.mobile,
+
+        findings=findings,
+
+        potential_entity_matches=(
+            entity_matches
+        ),
+
+        intelligence=(
+            intelligence_results
+        ),
+    )

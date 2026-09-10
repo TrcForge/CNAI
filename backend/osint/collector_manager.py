@@ -1,5 +1,6 @@
 from backend.osint.collectors.github import GitHubCollector
 from backend.osint.collectors.web import WebSearchCollector
+from backend.osint.normalization import normalize_and_deduplicate
 
 
 class OSINTCollectorManager:
@@ -13,10 +14,10 @@ class OSINTCollectorManager:
 
     def search(
         self,
-        queries: list[str]
-    ) -> list[dict]:
+        queries: list[str],
+    ) -> list:
 
-        results = []
+        raw_results = []
 
         for query in queries:
 
@@ -33,15 +34,24 @@ class OSINTCollectorManager:
                             collector.name
                         )
 
-                    results.extend(findings)
+                    raw_results.extend(
+                        findings
+                    )
 
                 except Exception as error:
 
                     print(
                         f"[OSINT] "
-                        f"{collector.name} "
-                        f"failed for '{query}': "
-                        f"{error}"
+                        f"{collector.name} failed "
+                        f"for '{query}': {error}"
                     )
 
-        return results
+        # Normalize + deduplicate all
+        # sources together.
+        clean_results = (
+            normalize_and_deduplicate(
+                raw_results
+            )
+        )
+
+        return clean_results
